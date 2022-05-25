@@ -2765,7 +2765,7 @@ hr {
   vertical-align: middle;
 }
 .links-of-author a::before {
-  background: #4fbd6b;
+  background: #e82e25;
   display: inline-block;
   margin-right: 3px;
   transform: translateY(-2px);
@@ -2808,4 +2808,19 @@ body {
 .main-inner > .comments,
 .main-inner > .pagination {
   background: rgba(255,255,255,0.8);
+}
+.posts-expand .post-meta-container {
+  color: #800;
+}
+.header-inner {
+  background: #fff;
+}
+.popup {
+  opacity: 0.8;
+}
+.main-inner {
+  opacity: 1;
+}
+.content-wrap {
+  opacity: 0.9;
 }
