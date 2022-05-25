@@ -1369,7 +1369,7 @@ header.header {
     display: block;
     height: 100%;
     left: 0;
-    opacity: 0;
+    opacity: 1;
     position: fixed;
     top: 0;
     transition: visibility 0.4s, opacity 0.4s;
@@ -1414,7 +1414,7 @@ header.header {
   color: #87daff;
 }
 .sidebar-panel-container {
-  flex: 1;
+  flex: 0;
   overflow-x: hidden;
   overflow-y: auto;
 }
@@ -2715,10 +2715,10 @@ hr {
   }
 }
 .main-inner {
-  padding-bottom: 80px;
+  padding-bottom: 60px;
 }
 .post-block:first-of-type {
-  padding-top: 80px;
+  padding-top: 60px;
 }
 @media (max-width: 767px) {
   .post-block:first-of-type {
@@ -2765,7 +2765,7 @@ hr {
   vertical-align: middle;
 }
 .links-of-author a::before {
-  background: #ff61c2;
+  background: #ff249d;
   display: inline-block;
   margin-right: 3px;
   transform: translateY(-2px);
@@ -2818,11 +2818,8 @@ body {
 .posts-expand .post-meta-container {
   color: #800;
 }
-.sidebar {
-  opacity: 0.85;
-}
 .header-inner {
-  background: rgba(255,255,255,0);
+  background: #fff;
 }
 .popup {
   opacity: 0.8;
@@ -2832,13 +2829,4 @@ body {
 }
 .content-wrap {
   opacity: 0.9;
-}
-​,
-.sidebar {
-  background-color: transparent;
-  opacity: 0;
-}
-​,
-.header-inner {
-  background: rgba(255,255,255,0);
 }
