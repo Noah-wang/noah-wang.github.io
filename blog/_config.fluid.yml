@@ -224,8 +224,8 @@ color:
 # 主题字体配置
 # Font
 font: 
-  font_size: 16px
-  font_family: 
+  font-size: 1.2rem;
+  line-height: 1.8;
   letter_spacing: 0.05em
   code_font_size: 80%
 
