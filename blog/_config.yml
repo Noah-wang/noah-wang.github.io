@@ -103,3 +103,4 @@ theme: fluid
 deploy:
   type: 'git'
   repo: git@github.com:Noah-wang/Noah-wang.github.io.git
+  branch: master
