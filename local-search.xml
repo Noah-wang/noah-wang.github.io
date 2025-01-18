@@ -1,0 +1,596 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  
+  
+  
+  <entry>
+    <title>Wise银行卡</title>
+    <link href="/2025/01/18/Wise%E9%93%B6%E8%A1%8C%E5%8D%A1/"/>
+    <url>/2025/01/18/Wise%E9%93%B6%E8%A1%8C%E5%8D%A1/</url>
+    
+    <content type="html"><![CDATA[<h4 id="一张好用的国际银行卡"><a href="#一张好用的国际银行卡" class="headerlink" title="一张好用的国际银行卡"></a>一张好用的国际银行卡</h4><p>这张卡的好处就是软件非常好用，在线上申请之后他会寄到家里，下载App就可以激活了，甚至如果不需要实体卡片的话，都可以用他的电子卡片绑定到Apple Pay或者是Google Pay进行使用。目前注册需要海外地址，这个可以请求淘宝上的渠道。</p><p>除了银行卡，他还支持在线开通全世界很多地方的银行账户，也就是说你用一张卡就可以有世界不同币种的货币。旅游有这一张卡就足够了，出发前在国内转入Wise里，到达目的地就可以用卡片消费或者提现了。</p><p>这张卡片能用的地方很多，出国旅行，留学，或者境外投资都可以用的到，并且对中文的支持也很好，还是非常推荐开通的。</p>]]></content>
+    
+    
+    <categories>
+      
+      <category>其他</category>
+      
+    </categories>
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>影中记</title>
+    <link href="/2025/01/12/%E5%BD%B1%E4%B8%AD%E8%AE%B0/"/>
+    <url>/2025/01/12/%E5%BD%B1%E4%B8%AD%E8%AE%B0/</url>
+    
+    <content type="html"><![CDATA[<h3 id="我的电影观看记录"><a href="#我的电影观看记录" class="headerlink" title="我的电影观看记录"></a>我的电影观看记录</h3><p>这里是我的观影记录，从2025年开始记录，里面有亮点，缺点和综述</p><h4 id="2025年"><a href="#2025年" class="headerlink" title="2025年"></a>2025年</h4><h5 id="2025-1-12-小小的我"><a href="#2025-1-12-小小的我" class="headerlink" title="2025&#x2F;1&#x2F;12 小小的我"></a>2025&#x2F;1&#x2F;12 小小的我</h5><p><img src="https://github.com/Noah-wang/pictures/blob/main/picture/%E5%BD%B1%E4%B8%AD%E8%AE%B0/xiaoxiaodewo.png?raw=true" alt="“易烊千玺的演技居然成为了电影的唯一看点”"></p><p>👍：易烊千玺的演技，对于少部分群体的关注</p><p>⚠️：其他人糟糕的演技，轻浮的剧情</p><p>电影全篇只有易烊千玺和林晓杰单独出现的部分是合格的。无论是剧情，台词还是演技都可以称之为灾难。合唱团的一整条线毫无作用，母亲线情绪难以感知，恋爱线更是出现的让人难以置信。电影剧情的全程很难让人带入进去对残疾人士感同身受，只有易烊千玺单独出现的部分让我感觉方向是正确的，如果说不是因为易烊千玺的演技，这部片可能对残疾群体毫无帮助….</p>]]></content>
+    
+    
+    <categories>
+      
+      <category>记趣-----用心感受生活</category>
+      
+    </categories>
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>在小米AX3600上安装Clash</title>
+    <link href="/2025/01/08/%E5%9C%A8%E5%B0%8F%E7%B1%B3AX3600%E4%B8%8A%E5%AE%89%E8%A3%85Clash/"/>
+    <url>/2025/01/08/%E5%9C%A8%E5%B0%8F%E7%B1%B3AX3600%E4%B8%8A%E5%AE%89%E8%A3%85Clash/</url>
+    
+    <content type="html"><![CDATA[<h3 id="这是一个在小米AX3600路由器上安装clash插件的过程"><a href="#这是一个在小米AX3600路由器上安装clash插件的过程" class="headerlink" title="这是一个在小米AX3600路由器上安装clash插件的过程"></a>这是一个在小米AX3600路由器上安装clash插件的过程</h3><p>在路由器上安装网络代理工具的好处👍是只需要安装一次，全屋设备都有了代理的网络，对于电视，VR等平台封闭的硬件来说这似乎是比较现实的唯一解。坏处⚠️就是门槛相比手机电脑上的网络代理软件比较高。</p><p>选择安装Clash需要有一些硬件准备：</p><p>Option A：软路由方案：专门的硬件+Linux系统+路由程序，所以很多人可能不愿意专门为了网络而再去准备硬件。</p><p>Option B：硬路由方案：特定的某些路由器+路由程序，这种是非常方便的方案，正好借用了路由器的功能实现代理网络。</p><p>我这里就是用的第二种方法，选择的设备是小米的AX3600，现在大概300多块</p><p><img src="https://th.bing.com/th/id/R.2c5d008cf548047d7f2788d7ad611893?rik=wsC09Ex2613C4g&riu=http://img1.mydrivers.com/img/20200215/b5dca22f1b654f01980938ac460f39d0.jpg&ehk=sveu4rp6UDTuhIBMVgK1HtMMnrGaNpkH6aziRKCECkA=&risl=&pid=ImgRaw&r=0" alt="这个就是AX3600"></p><h4 id="为什么我选择了安装Clash呢？"><a href="#为什么我选择了安装Clash呢？" class="headerlink" title="为什么我选择了安装Clash呢？"></a>为什么我选择了安装Clash呢？</h4><p>我今年暑假从国内带回来了大一买的Oculus Quest 2和Xbox Series S，这些设备只有在国外的网络才能发挥全部的功能，所以暑假一直在寻找一个无痛的方案来创造一个沉浸的网络。</p><p>暑假的时候其实已经成功完成了Clash的安装和网络的部署，由于机场到期，家里扫地机器人接入的网络就没办法用了，就把路由器重置了。寒假回国之后电脑都换了一遍，这些设备又需要网络，我就又重新弄了一遍，这一次也是记录下来我遇到的问题和解决方案。</p><h4 id="AX3600安装Clash的全过程"><a href="#AX3600安装Clash的全过程" class="headerlink" title="AX3600安装Clash的全过程"></a>AX3600安装Clash的全过程</h4><h4 id="Step1-检查路由器的版本"><a href="#Step1-检查路由器的版本" class="headerlink" title="Step1 检查路由器的版本"></a>Step1 检查路由器的版本</h4><p>检查路由器的版本是否为1.0.17，</p><p><img src="https://github.com/Noah-wang/pictures/blob/main/picture/%E5%B0%8F%E7%B1%B3Ax3600Clash/checkingVersion.png?raw=true" alt="检查这个位置"></p><p>如果不是需要下载下面这个链接，安装需要的路由器版本。里面还包括了Step5要用的程序</p><p><a href="https://pan.baidu.com/s/17LWkIHdcuhNcHFWbpLQdmA">https://pan.baidu.com/s/17LWkIHdcuhNcHFWbpLQdmA</a> 提取码: t1gg</p><p>如果是的话，you are free to go to the next step</p><h4 id="Step2-获取Stok"><a href="#Step2-获取Stok" class="headerlink" title="Step2 获取Stok"></a>Step2 获取Stok</h4><p>登陆到小米路由器管理网站：在浏览器输入 192.168.31.1 登陆进入网站</p><p>网站的地址上找到<strong>stok&#x3D;<strong>的部分一直到</strong>&#x2F;web</strong>复制中间的内容，这一串字符是我们需要的</p><h4 id="Step3-解锁SSH"><a href="#Step3-解锁SSH" class="headerlink" title="Step3 解锁SSH"></a>Step3 解锁SSH</h4><p>把上一步stok替换下面<STOK>输入到浏览器，正确的话会出现**{code 0}**</p><p><code>http://192.168.31.1/cgi-bin/luci/;stok=&lt;STOK&gt;/api/misystem/set_config_iotdev?bssid=Xiaomi&amp;user_id=longdike&amp;ssid=-h%3B%20nvram%20set%20ssh_en%3D1%3B%20nvram%20commit%3B%20sed%20-i%20&#39;s%2Fchannel%3D.*%2Fchannel%3D%5C%22debug%5C%22%2Fg&#39;%20%2Fetc%2Finit.d%2Fdropbear%3B%20%2Fetc%2Finit.d%2Fdropbear%20start%3B</code></p><p>这一个也是一样的操作，把上一步stok替换下面<STOK>输入到浏览器，正确的话会出现**{code 0}**</p><p><code>http://192.168.31.1/cgi-bin/luci/;stok=&lt;STOK&gt;/api/misystem/set_config_iotdev?bssid=Xiaomi&amp;user_id=longdike&amp;ssid=-h%3B%20echo%20-e%20&#39;admin%5Cnadmin&#39;%20%7C%20passwd%20root%3B</code></p><p>在终端执行下面的内容</p><p><code>ssh root@192.168.31.1</code></p><p>⚠️但在这一步的时候我遇到了下面的问题</p><p><img src="https://github.com/Noah-wang/pictures/blob/main/picture/%E5%B0%8F%E7%B1%B3Ax3600Clash/step3problem.png?raw=true" alt="ssh连接问题"></p><p>在网络上搜索后，下面的这个网站解决了</p><p><a href="https://www.right.com.cn/FORUM/thread-8238692-1-1.html">https://www.right.com.cn/FORUM/thread-8238692-1-1.html</a></p><p><code>ssh -o HostKeyAlgorithms=+ssh-rsa -o PubkeyAcceptedKeyTypes=+ssh-rsa root@192.168.31.1</code></p><p>我问了Chatgpt，回答了关于我的这个问题</p><p><em>“When you attempt to connect via SSH, the client and server negotiate which algorithms to use for encryption, key exchange, and authentication. If the server offers ssh-rsa (commonly used by older systems or devices) and your client doesn’t support it by default, the negotiation fails, resulting in the error.”</em></p><p><em>“当你尝试通过 SSH 进行连接时，客户端和服务器会协商使用哪种算法进行加密、密钥交换和身份验证。如果服务器提供 ssh-rsa（旧版系统或设备常用），而你的客户端默认不支持它，协商就会失败，从而导致错误”。</em></p><p><strong>看到大大的ARE U OK就成功了</strong></p><h4 id="Step4-备份路由器"><a href="#Step4-备份路由器" class="headerlink" title="Step4 备份路由器"></a>Step4 备份路由器</h4><p>在小米 AX3600 上执行</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><code class="hljs bash"><span class="hljs-built_in">mkdir</span> /tmp/syslogbackup/<br><span class="hljs-built_in">dd</span> <span class="hljs-keyword">if</span>=/dev/mtd9 of=/tmp/syslogbackup/mtd9<br></code></pre></td></tr></table></figure><p>随后在<a href="http://192.168.31.1/backup/log/mtd9%E4%B8%8B%E8%BD%BD%E5%A4%87%E4%BB%BD">http://192.168.31.1/backup/log/mtd9下载备份</a></p><h4 id="Step5-固化SSH"><a href="#Step5-固化SSH" class="headerlink" title="Step5 固化SSH"></a>Step5 固化SSH</h4><p>在Terminal里打开在百度网盘下载的fuckAX3600路径</p><p>输入<code>scp fuckax3600 root@192.168.31.1:/tmp</code></p><p>⚠️在这一步我还是遇到了问题<code>ash: /usr/libexec/sftp-server: not found</code></p><p>通过搜索在该网址找到了解决办法：<a href="https://forum.openwrt.org/t/ash-usr-libexec-sftp-server-not-found-when-using-scp/125772">https://forum.openwrt.org/t/ash-usr-libexec-sftp-server-not-found-when-using-scp/125772</a></p><p><code>scp -O -oHostKeyAlgorithms=+ssh-rsa fuckax3600 root@192.168.31.1:/tmp</code></p><p>然后更改系统权限：</p><p><code>chmod +x /tmp/fuckax3600 </code></p><p><code>/tmp/fuckax3600 unlock</code></p><p>系统重启之后在scp一遍程序</p><p><code>scp -O -oHostKeyAlgorithms=+ssh-rsa fuckax3600 root@192.168.31.1:/tmp</code></p><p>然后SSH连接到路由器执行：</p><p><code>chmod +x /tmp/fuckax3600 </code></p><p><code>/tmp/fuckax3600 hack </code></p><p><code>/tmp/fuckax3600 **lock**</code></p><p>然后SSH会出现一个密码，需要记录下来</p><h4 id="Step6-安装ShellClash"><a href="#Step6-安装ShellClash" class="headerlink" title="Step6 安装ShellClash"></a>Step6 安装ShellClash</h4><p>SSH进入到小米路由器安装ShellClash，在下面这个链接里选择一个可以安装的源，直接复制粘贴地址到Terminal</p><p><code>https://github.com/juewuy/ShellCrash/blob/master/README_CN.md</code></p><p>等待安装完毕，随后一路输入1回车到主界面。此时ShellClash就安装完成了。</p><p>在root@xiaoqiang的用户名下输入clash就能看见菜单了，选择导入配置文件就可以把机场的订阅信息输入进去。如果没有提供订阅信息可以选择在线生成，输入机场提供链接，clash会给你生成很多的订阅地址。可以输入到浏览器看信息是否正确，选择一个链接输入就好了。我们还可以安装面板，在浏览器就可以查询到数据。我们可以选择开机启动和每日定期重启。</p><p>后面我们如果需要再次登陆进去就只需要SSH连接到路由器，输入Step5最后得到的密码，进入root@xiaoqiang，输入clash调出Clash菜单。</p><h3 id="完成所有工作"><a href="#完成所有工作" class="headerlink" title="完成所有工作"></a>完成所有工作</h3><p>此时我们的Clash就安装完毕了，其实不算很难，但每个人遇到的问题不一定一样。所以我把我的问题和解决方案都发出来提供参考，希望可以帮助了在这个过程中遇到困难的人。</p>]]></content>
+    
+    
+    <categories>
+      
+      <category>开发-----记录，学习，分享</category>
+      
+    </categories>
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>2025年开始更新了</title>
+    <link href="/2025/01/01/2025%E5%B9%B4%E5%BC%80%E5%A7%8B/"/>
+    <url>/2025/01/01/2025%E5%B9%B4%E5%BC%80%E5%A7%8B/</url>
+    
+    <content type="html"><![CDATA[<h3 id="今天是2025年1月1日"><a href="#今天是2025年1月1日" class="headerlink" title="今天是2025年1月1日"></a>今天是2025年1月1日</h3><p>现在我是在北京写这一篇文章的，随着2024年冬季学期的结束，我也是毕业了，参加了毕业典礼</p><p><img src="https://github.com/Noah-wang/pictures/blob/main/picture/%E6%AF%95%E4%B8%9A%E5%85%B8%E7%A4%BC.jpg?raw=true" alt="毕业典礼"></p><p>新的一年希望能有更多惊喜吧</p>]]></content>
+    
+    
+    <categories>
+      
+      <category>随笔-----生活中冒出的小火花</category>
+      
+    </categories>
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>我的外国中文老师-Brandon Dowling</title>
+    <link href="/2024/12/04/%E6%88%91%E7%9A%84%E5%A4%96%E5%9B%BD%E4%B8%AD%E6%96%87%E8%80%81%E5%B8%88-Brandon%20Dowling/"/>
+    <url>/2024/12/04/%E6%88%91%E7%9A%84%E5%A4%96%E5%9B%BD%E4%B8%AD%E6%96%87%E8%80%81%E5%B8%88-Brandon%20Dowling/</url>
+    
+    <content type="html"><![CDATA[<h4 id="我有一个外国中文老师"><a href="#我有一个外国中文老师" class="headerlink" title="我有一个外国中文老师"></a>我有一个外国中文老师</h4><p>就在我大一暑假的时候，因为没有办法回国，上了一门非常有意思的课，它叫Chinese HipHop，没上之前我不知道这是干什么，因为有很多的这种文科课他的内容和标题严重不符，我也不指望在美国能有多少涉及中文说唱的内容。暑假的课和正常的学期的课风格非常不一样，主打一个放松。因为暑假学期的课大部分其实并不是学校的教授来教，而是学校的博士生，所以他们大部分课给分给的特别松，所以我就抱着一个拿学分的心态来上这门课的。</p><p>可事实证明我错了，这节课不仅仅涉及到了很多中文的内容，还有很多中国说唱的内容，而且这位老师了解到的中国说唱内容比国内大部分的听众要专业。</p><p>课程的内容包括了基本的说唱历史，从Bronx讲到隐藏，再到后面的四川方言，广东方言，中国有嘻哈和中国社会和说唱的关系，我听的非常过瘾。这节课还有两次presentation，我选择了江湖流和直火帮的udA。</p><p>这节课可以作为我在学校里排前三的课，课程的内容非常地道，放在国内大学都算是相当新颖和专业的课程了。</p><h4 id="我和这位老师算是相见恨晚了"><a href="#我和这位老师算是相见恨晚了" class="headerlink" title="我和这位老师算是相见恨晚了"></a>我和这位老师算是相见恨晚了</h4><p>在上课之后我们加了微信，才知道他的妻子是西安人，他曾经在北京大学当过交换生，说起这个来他问我：“有一个同学在国内特别有名，好多中国的男生都喜欢她，她叫** **，在做视频，一个加州女孩，金头发的”。 我说是不是<a href="https://space.bilibili.com/315898473?spm_id_from=333.337.0.0">星悦小美女</a> 。他说对对就是她。回顾那个年代真的是中美交流最紧密的时候。我们交流中国说唱特别紧密，每学期都会一起吃饭聊一聊最近听了什么歌。他一直能够听到最新的中国说唱，说哪些内容好哪些不好。</p><p>这个学期是我的最后一个学期了，道林老师的丈母娘也来了美国生活，这一次我也是沾了道林老师的光吃到了正宗的陕西肉夹馍。走的时候还让我拿着自己做的花卷。</p><p><img src="https://github.com/Noah-wang/pictures/blob/main/picture/%E8%82%89%E5%A4%B9%E9%A6%8D.JPG?raw=true" alt="非常好的肉夹馍"></p><p><img src="https://github.com/Noah-wang/pictures/blob/main/picture/%E8%8A%B1%E5%8D%B7.JPG?raw=true" alt="花卷"></p><p>我马上就要毕业了，道林老师也要接着在大学里追求更高的学术了，希望我们各自都好，还有机会见面。</p>]]></content>
+    
+    
+    <categories>
+      
+      <category>随笔-----生活中冒出的小火花</category>
+      
+    </categories>
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>麦迪逊马拉松2024</title>
+    <link href="/2024/11/18/%E9%BA%A6%E8%BF%AA%E9%80%8A%E9%A9%AC%E6%8B%89%E6%9D%BE2024/"/>
+    <url>/2024/11/18/%E9%BA%A6%E8%BF%AA%E9%80%8A%E9%A9%AC%E6%8B%89%E6%9D%BE2024/</url>
+    
+    <content type="html"><![CDATA[<h3 id="麦迪逊马拉松我又来了"><a href="#麦迪逊马拉松我又来了" class="headerlink" title="麦迪逊马拉松我又来了"></a>麦迪逊马拉松我又来了</h3><p>这一次我报了半马，麦迪逊马拉松不用抽签，我在暑假就报名了，早早锁定了席位。报名费不便宜，150美元不加上税，和中国的报名费相比高了无数倍，区别就是国外的马拉松志愿者都不是志愿者，而是花钱的。</p><h4 id="领物的装备"><a href="#领物的装备" class="headerlink" title="领物的装备"></a>领物的装备</h4><p>今年的麦迪逊马拉松参赛包依旧保持着国外的节俭。</p><p>包括：</p><ul><li><p>出口自取的佳得乐</p></li><li><p>自取的广告页</p></li><li><p>号码布</p></li><li><p>参赛服</p></li><li><p>完赛后的奖品</p></li><li><p>完赛后的自取食物</p></li></ul><p>相比于国内的马拉松，真的算是简朴了。</p><h4 id="比赛过程"><a href="#比赛过程" class="headerlink" title="比赛过程"></a>比赛过程</h4><p>赛前还没有想好目标，不知道自己的身体状态如何，再加上半马150的爬升，看上去很难出好成绩。</p><p><img src="https://github.com/Noah-wang/pictures/blob/main/picture/%E9%BA%A6%E8%BF%AA%E9%80%8A%E9%A9%AC%E6%8B%89%E6%9D%BE2024/madisonMarathon2024Course.jpg?raw=true" alt="比赛路线"></p><p>天气是阴天，气温在十度左右，这一次我选择穿了北马的衣服，臂套和长的压缩裤。出门前穿了一件长袖打底，从家到比赛起点有1.5公里，我选择了跑过去，就当热身了，长袖打底在比赛前就脱掉放在两边，有人回去收走，国外这一点还是挺好的，旧衣服留着穿不着，扔了可惜，在这种场合就正合适，雨衣污染环境还有绊倒的风险，希望国内比赛可以不主动发雨衣了。比赛前的流程就和其他的一样了，存包，进场，奏国歌，等待开始。</p><p><img src="https://github.com/Noah-wang/pictures/blob/main/picture/%E9%BA%A6%E8%BF%AA%E9%80%8A%E9%A9%AC%E6%8B%89%E6%9D%BE2024/madisonMarathon2024-01.jpeg?raw=true" alt="比赛前"></p><p>开赛之后体感还不错，因为开始就是一个长距离的大下坡，一直到8公里平均配速都是在430以内，在开赛的时候我还录了一段，但这时候我就决定要冲成绩了。</p><p>从8公里之后为了调整呼吸没有太多的印象了，但就在13公里处喝了一杯水，后面和一个大哥一起跑了一会，聊了几句，然后就严重岔气了。每跑一步就疼一步，右侧肋骨下方出现了剧痛，我就用左手用力摁压这个位置，摁下去的时候疼痛有减轻，但我发现疼痛处太深了，很难长时间摁压，我就只能降速度，希望能够缓轻一些，发现依旧没有好转，就只能咬牙坚持了。在坚持了4公里之后，疼痛慢慢减弱了，比赛也迎来了最后一段，也是在学校里比较熟悉的路。</p><p>最后3公里有太多的爬坡，对双腿的打击很明显，也是这一段让我体力完全透支了，在冲线之后，双腿已经没法支撑，这也是我头一次有了双腿随时要抽筋的感觉。</p><p>终点处有人发保温毯，然后是拿奖牌，食物，食物的选择非常多，有热食烤土豆什么的，有包装的能量食品，有水果，有各式各样的饮品。我最后拿了个苹果，一个巧克力坚果能量棒，一罐康普茶。</p><p> <img src="https://github.com/Noah-wang/pictures/blob/main/picture/%E9%BA%A6%E8%BF%AA%E9%80%8A%E9%A9%AC%E6%8B%89%E6%9D%BE2024/madisonMarathon2024medal.jpeg?raw=true" alt="奖牌"></p><p><img src="https://github.com/Noah-wang/pictures/blob/main/picture/%E9%BA%A6%E8%BF%AA%E9%80%8A%E9%A9%AC%E6%8B%89%E6%9D%BE2024/madisonMarathon2024data.jpeg?raw=true" alt="赛后数据"></p><h4 id="结语"><a href="#结语" class="headerlink" title="结语"></a>结语</h4><p>虽然这一次没有进140的成绩，但作为在麦迪逊的最后一次比赛并且有这么大的爬升，我已经很满意了。2024的比赛就是这样了，明年回国再战。这一次真的把我推向极限了，希望再练几个月再能冲到更好的成绩。</p><p><img src="https://github.com/Noah-wang/pictures/blob/main/picture/%E9%BA%A6%E8%BF%AA%E9%80%8A%E9%A9%AC%E6%8B%89%E6%9D%BE2024/madisonMarathon2024-09.jpeg?raw=true" alt="比赛照片"></p>]]></content>
+    
+    
+    <categories>
+      
+      <category>运动-----自律给我自由</category>
+      
+    </categories>
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>开发日志</title>
+    <link href="/2024/11/13/%E5%BC%80%E5%8F%91%E6%97%A5%E5%BF%97/"/>
+    <url>/2024/11/13/%E5%BC%80%E5%8F%91%E6%97%A5%E5%BF%97/</url>
+    
+    <content type="html"><![CDATA[<h3 id="开发日志"><a href="#开发日志" class="headerlink" title="开发日志"></a>开发日志</h3><h4 id="网页端"><a href="#网页端" class="headerlink" title="网页端"></a>网页端</h4><h5 id="2024-11-14"><a href="#2024-11-14" class="headerlink" title="2024.11.14"></a>2024.11.14</h5><p>为PriceScout添加更多功能！</p><p><strong>搜索历史记录</strong>：可以浏览或者单击选择搜索过的设置<br><strong>已选择网站显示</strong>：在搜索栏下方显示已经添加了的网页<br><strong>固定搜索栏</strong>：随着更多的网站被添加进来，网页需要向下滚动，添加了固定的搜索栏当网页滚动到下方，无需回到顶端搜索</p><h5 id="2024-11-18"><a href="#2024-11-18" class="headerlink" title="2024.11.18"></a>2024.11.18</h5><p>修复PriceScout bugs</p><p>修复图片不正确显示的bug</p><p>修复网站不正确的搜索域名</p><h4 id="苹果端"><a href="#苹果端" class="headerlink" title="苹果端"></a>苹果端</h4><h5 id="2024-11-13"><a href="#2024-11-13" class="headerlink" title="2024.11.13"></a>2024.11.13</h5><p>今天我下载了Swift Playground，试图开始学习Swift。</p><p><img src="https://github.com/Noah-wang/pictures/blob/main/picture/%20%E5%BC%80%E5%8F%91%E6%97%A5%E5%BF%97/20241113/SwiftPlayground01.png?raw=true" alt="SwiftPlayground"></p><p>预定了明年二月份的<strong>Swift Student Challenge</strong>，现在的我一片茫然，不知道我会完成什么样</p><p><img src="https://github.com/Noah-wang/pictures/blob/main/picture/%20%E5%BC%80%E5%8F%91%E6%97%A5%E5%BF%97/20241113/SwiftStudentChallenge01.png?raw=true" alt="SwiftStudentChallenge"></p><h5 id="2025-1-1"><a href="#2025-1-1" class="headerlink" title="2025.1.1"></a>2025.1.1</h5><p>正在学习UIKit，马上就要转到SwiftUI了，这个日志老忘了写….以后要养成习惯</p>]]></content>
+    
+    
+    <categories>
+      
+      <category>开发-----记录，学习，分享</category>
+      
+    </categories>
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>人生第一台Macbook</title>
+    <link href="/2024/11/12/MacBook%E5%88%9D%E4%BD%93%E9%AA%8C/"/>
+    <url>/2024/11/12/MacBook%E5%88%9D%E4%BD%93%E9%AA%8C/</url>
+    
+    <content type="html"><![CDATA[<h3 id="我的人生中第一台MacBook"><a href="#我的人生中第一台MacBook" class="headerlink" title="我的人生中第一台MacBook"></a>我的人生中第一台MacBook</h3><p>如果说iPhone是我之前使用过的苹果设备，从安卓换回到苹果几乎没有什么感受，但目前我正在编辑这篇文章的MacBook可以说是全新的体验。</p><h3 id="换成MacBook的原因"><a href="#换成MacBook的原因" class="headerlink" title="换成MacBook的原因"></a>换成MacBook的原因</h3><p>在苹果M芯片面世之后，苹果电脑的功耗大幅度下降，因为硬件相互传递信号的延迟和消耗更小了，从前传统的主板为载体的方式被放弃了，但成本肯定就更高了。</p><p>早就听说苹果的系统设计十分优秀，对于程序员很友好，另外我还有一些图片和视频处理的活，正好又是在苹果每年更新pro的时间点，所以就选择了换掉小新。我这台是M4 pro 24+512的版本，这一代M4 pro的能力大幅提高，已经可以和M3 Max一战了。再加上马上毕业，下半年回国，国行AI遥遥无期，于是就选择了这一台电脑。</p><h3 id="到手感受"><a href="#到手感受" class="headerlink" title="到手感受"></a>到手感受</h3><p>苹果的包装能给你营造出一种正式的感觉，我相信这也是很多的人喜欢苹果甚至愿意给他付高价的原因。</p><p><img src="https://github.com/Noah-wang/pictures/blob/main/picture/MacBook/unboxing.jpeg?raw=true" alt="开箱前的一张照片"></p><p>然后就是不习惯，整个的系统逻辑和Windows完全不一样了，这也是操作系统层面的变化。软件界面的工具栏全部移到最上方，快捷键逻辑也不一样，有的时候用删除键可能，有的时候又不行。所有的逻辑需要重新的学习。带来的感觉就是很新鲜。</p>]]></content>
+    
+    
+    <categories>
+      
+      <category>随笔-----生活中冒出的小火花</category>
+      
+    </categories>
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>棒球</title>
+    <link href="/2024/10/23/%E6%A3%92%E7%90%83/"/>
+    <url>/2024/10/23/%E6%A3%92%E7%90%83/</url>
+    
+    <content type="html"><![CDATA[<h3 id="前天道奇夺冠了"><a href="#前天道奇夺冠了" class="headerlink" title="前天道奇夺冠了"></a>前天道奇夺冠了</h3><p>作为大谷的粉丝，这无疑是等了很久的一天。看着推特上的新闻，就在当晚，整个东洛杉矶的交通属于瘫痪的状态。球迷们涌上街头庆祝着这一时刻。</p><p><img src="https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1t76Uf.img?w=768&h=426&m=6" alt="东洛杉矶的球迷们"></p><h3 id="棒球在国内是个小众运动"><a href="#棒球在国内是个小众运动" class="headerlink" title="棒球在国内是个小众运动"></a>棒球在国内是个小众运动</h3><p>这也让我参与到这项活动中变得比较困难。在我高三的时候，我接触到了MLB，在腾讯体育MLB是免费看的，大谷祥平是刚开始红起来。正好的是，我高中的宏观经济老师是一个体育迷，他经常看冰球和橄榄球，所以很多的内容和规则是在他那里学到的。</p><p>棒球的规则十分复杂，他不像篮球和足球一样直接，他有很多的条件和规则，所以我相信这也是他难以在国内发展的原因吧。在刚开始看比赛的时候，有很多的情况都不明白，比如为什么高飞球可以回本垒，但不能跑垒，为什么有时候能盗垒有时候不行。有很多人搞不明白足球越位的规则，但棒球这种情况要很多，比如好球带判断，跑垒阻挡，触击的时机。棒球不仅是体育运动，还是策略的游戏。</p><p>在国内，除了大学里面自己的棒球队，只有一些目的是盈利的机构了。很难有野球场，更别说玩棒球的人了。唯一的机会就是，自己买T柱，在足球场附近对着边网打。另外就是自己练接球。就这我曾经也有一些<strong>不愉快的经历</strong>。那一天下午我没有什么事，我的母亲对这项运动也感兴趣，我想着平常都是一个人，我这次终于可以真的练习一下守备了，所以我又去了那个地方。那里有两个球场，有一伙人在那踢足球，我在隔壁的球场。我教了我妈怎么打击出去，我也能接一些地滚球和平飞球。我就无意间听到了隔壁有个老头，嘴里振振有词，把矛头指向了我们，被我听到了，我就走到我妈那说我来打两个，于是我就看着他们的位置，用了全力把球打到他们的位置，球从他们头上飞过，我就拿着棒子走到他们面前把球捡了回去。心里感觉畅快了很多。</p><h3 id="美国的氛围好了很多"><a href="#美国的氛围好了很多" class="headerlink" title="美国的氛围好了很多"></a>美国的氛围好了很多</h3><p>在国内的时候，我经常穿大谷的球衣出没在Zoey的学校里面，希望能交到一些棒球同好，没想到一个暑假过去了一个人都没有，但我在美国就不一样了，就在前天的时候，我刚下课和同学一起在外面走，就听到后面有人大声说“欧大尼” 一直在喊，我还好奇是谁一直在喊什么东西。过了一会那个同学骑着滑板车在我身后揪了揪我的衣服说欧大尼。我这时才明白原来刚才是他一直在冲着我叫Ohtani，我还在回想刚才的喊声，哥们已经骑着滑板车走了。这还不是唯一一次有人和我搭话，我来美国之后至少有三四次有人看我穿着大谷的球衣和我聊天的。可见大多数美国人对于棒球和日本人的认可度。</p><h3 id="一些对于这项运动在中国以后的发展的看法"><a href="#一些对于这项运动在中国以后的发展的看法" class="headerlink" title="一些对于这项运动在中国以后的发展的看法"></a>一些对于这项运动在中国以后的发展的看法</h3><p>首先我认为中国人是极其适合打棒球的，天时地利人和全占了。</p><h4 id="天时"><a href="#天时" class="headerlink" title="天时"></a>天时</h4><p>现在国家在大力支持棒球运动，有很多的国际赛事都在南方的城市举办，比如U21棒球世界杯，有了这样的帮助，曝光更多，更多的人会对这项运动产生好奇，并参与到里面来。</p><h4 id="地利"><a href="#地利" class="headerlink" title="地利"></a>地利</h4><p>我们离着世界棒球最高水平的国家非常近，他们有成熟的联赛，球员和技巧。我们可以非常低成本的提高我们的专业队伍水平。</p><h4 id="人和"><a href="#人和" class="headerlink" title="人和"></a>人和</h4><p>都说亚洲人不适合以身体碰撞为主的运动，正好棒球是一项以技巧和力量为主的运动，在比赛里几乎没有什么碰撞。</p><p>经过这些的条件，棒球是我们现在非常适合发展的运动，希望以后大家能够更多的观看棒球比赛，并参与到其中来，让中国的体育事业变得更加健壮。</p>]]></content>
+    
+    
+    <categories>
+      
+      <category>运动-----自律给我自由</category>
+      
+    </categories>
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>跑步一周年</title>
+    <link href="/2024/10/16/%E8%B7%91%E6%AD%A5%E4%B8%80%E5%91%A8%E5%B9%B4/"/>
+    <url>/2024/10/16/%E8%B7%91%E6%AD%A5%E4%B8%80%E5%91%A8%E5%B9%B4/</url>
+    
+    <content type="html"><![CDATA[<p>跑步一年 1600K</p><p><img src="https://github.com/Noah-wang/pictures/blob/main/picture/%E8%B7%91%E6%AD%A5%E4%B8%80%E5%91%A8%E5%B9%B4/RunningOneYearRecord.jpg?raw=true" alt="跑步一年的数据"></p><p>这一年跑过很多地方 见识到不同城市的春夏秋冬<br>跑过山， 跑过湖，淋过雨，吹过风<br>从六分半到四分半， 不知道有多少次咬牙坚持过<br>还有三周就是2024麦迪逊马拉松了，希望这次能好好享受赛道和氛围，今年半马冲击到了143 明年的目标就是冲击全马330<br>希望新的跑年 能在更多的城市跑过 享受过</p><p><img src="https://github.com/Noah-wang/pictures/blob/main/picture/%E8%B7%91%E6%AD%A5%E4%B8%80%E5%91%A8%E5%B9%B4/OneYearMedals.jpg?raw=true" alt="跑步一年的奖牌"></p>]]></content>
+    
+    
+    <categories>
+      
+      <category>运动-----自律给我自由</category>
+      
+    </categories>
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>学校的纪念品专卖店</title>
+    <link href="/2024/10/10/%E5%AD%A6%E6%A0%A1%E7%BA%AA%E5%BF%B5%E5%93%81%E5%BA%97/"/>
+    <url>/2024/10/10/%E5%AD%A6%E6%A0%A1%E7%BA%AA%E5%BF%B5%E5%93%81%E5%BA%97/</url>
+    
+    <content type="html"><![CDATA[<h1 id="美国独有的大学文化"><a href="#美国独有的大学文化" class="headerlink" title="美国独有的大学文化"></a>美国独有的大学文化</h1><h2 id="初到美国就一眼感觉到的氛围"><a href="#初到美国就一眼感觉到的氛围" class="headerlink" title="初到美国就一眼感觉到的氛围"></a>初到美国就一眼感觉到的氛围</h2><p>可以常见的就是大家穿着不同的球衣，支持不同的队伍，但我一下飞机就见到了不同学校的标志。如果说你是这个学校的学生穿那还合理，但有很多明显是老人和中年人穿。这个时候我还没有见到美国的社会文化的疯狂程度。</p><h2 id="BookStore不是卖书的"><a href="#BookStore不是卖书的" class="headerlink" title="BookStore不是卖书的"></a>BookStore不是卖书的</h2><p>或者说不完全是卖书的，他更多的包含了本校的周边。如果说你点进学校的Bookstore官网，你会发现有无数以学校为主题的衣服，文具或者家具。以我们学校为例子，<a href="https://www.uwbookstore.com/home">Boostore</a>的官网点进clothing，有几百件以学校为主题的衣服，无论是学校logo，吉祥物，还是联名。只有你想不到的，没有你不喜欢的。当然看到下面的售价也是挺吓人的，因为这些学校的东西还包含了一笔版权费，这些周边的一部分钱会走到学校的账户里，用来支持学校的运营。他们会在每个学期推出非常多的新品和联名，比如我有的两件Travis Scott的联名，这是我刷推特突然发现的。</p><p>还有这学期我发现史努比的联名</p><p><img src="https://www.uwbookstore.com/storeimages/177-1863505-1_hi.png" alt="史努比联名"></p><p>还有不同语言的，虽然这个字体不怎么样</p><p><img src="https://www.uwbookstore.com/storeimages/177-489536-1_hi.png" alt="中文版本的"></p><h2 id="美国强调你从哪来"><a href="#美国强调你从哪来" class="headerlink" title="美国强调你从哪来"></a>美国强调你从哪来</h2><p>当你走到学校周围，你会看见大部分的人都穿着同一主题色或者学校标志的衣服。可能有很多人都感觉到意外，大学是没有校服这一说的，尤其是美国的大学。你当然可以说这些都是学校的衣服，但没有人会强制要求你穿什么。那为什么大家都会穿呢，首先，这些衣服不是什么杂牌，他们的大部分都是那些你知道的国际运动品牌，比如耐克，阿迪，安德玛。这一点就保证了质量了，大家才会买学校的衣服来运动，而不是买一个纯粹的运动衣。其次就是他代表了你是从哪里来的。这一点我很长时间都没有意识到，直到我看一些美国弱队的比赛，我看为什么他们那么弱还有那么多人的支持。我在那时才意识到这是他们的家，支持自家球队不是一件很自然的事情吗。就像是北京人都会支持北京国安一样，他不可能会支持别的队。所以我在<a href="https://noah-wang.github.io/2024/09/24/%E6%88%91%E7%9A%84%E7%AC%AC%E4%BA%8C%E6%AC%A1%E8%B7%91%E6%AD%A5%E6%AF%94%E8%B5%9B-%E4%BA%AC%E8%A5%BF%E9%95%BF%E8%B7%91%E8%8A%82/">京西长跑节</a>才会和麦迪逊的友人有交集。美国人不会像我们一样因为某个队或者某个球星强而支持他们。这就是大家都穿学校主题的衣服的原因。</p>]]></content>
+    
+    
+    <categories>
+      
+      <category>随笔-----生活中冒出的小火花</category>
+      
+    </categories>
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>一次小小的越野</title>
+    <link href="/2024/10/03/%E8%B6%8A%E9%87%8E%E8%B5%9B%E5%88%9D%E4%BD%93%E9%AA%8C/"/>
+    <url>/2024/10/03/%E8%B6%8A%E9%87%8E%E8%B5%9B%E5%88%9D%E4%BD%93%E9%AA%8C/</url>
+    
+    <content type="html"><![CDATA[<h1 id="我的暑假第一场比赛就是越野"><a href="#我的暑假第一场比赛就是越野" class="headerlink" title="我的暑假第一场比赛就是越野"></a>我的暑假第一场比赛就是越野</h1><p>越野赛和路跑比赛不同，他的爬升比较多，对于腿部肌肉的要求比较高，我也是想通过这次越野获得一些肌肉上面的提升。由于越野必须要一些强制装备，确保安全。比如越野包，保温毯，水壶。这一次我也是增添了新的装备：迪卡侬的越野包。这个越野包真的不错，以后爬山感觉也有用。他还配备了一个2L的水壶，实现了在爬山的时候解放双手。不参加越野赛，经常徒步爬山的人也可以买。</p><p>这次我们比赛的地点是香八拉这条线，这条线是北京有名的徒步路线，途径香山，西山，八大处等地。难度不大，所以很受欢迎。我们的比赛组别是15公里，700米爬升，这个数量在越野赛里其实不算大，但对于我只参加过路跑比赛的人来说，已经算是半马级别的比赛了。越野赛里有一个换算机制，就是100米爬升相当于一公里，所以相当于一个22公里的路跑比赛。</p><p><img src="https://raw.githubusercontent.com/Noah-wang/pictures/refs/heads/main/picture/%E8%B6%8A%E9%87%8E/TrailData.JPG" alt="比赛数据"></p><p>从整个数据路线图上来看，路线是围绕着山在跑的。从这个图上就能感觉到路跑和越野不一样的地方。一般路跑都是比较规整的路线，但是越野跑的路线像一个圆环。虽然爬升只有700m，但我也感觉到了爬升带来的温度降低。另一个不同的是，长距离的爬升更加难以坚持，所以你不得不走。那一起来欣赏一下摄影师拍的照片，这次由于是小比赛，参赛者比较稀疏，摄影师有更多的时间调整，所以拍的角度和取景更加的好。</p><p><img src="https://raw.githubusercontent.com/Noah-wang/pictures/refs/heads/main/picture/%E8%B6%8A%E9%87%8E/TrailPhoto1.JPG" alt="比赛照片"></p><p><img src="https://raw.githubusercontent.com/Noah-wang/pictures/refs/heads/main/picture/%E8%B6%8A%E9%87%8E/TrailPhoto2.JPG" alt="比赛照片"></p><p>最后我也是顺利的完成了比赛，拿到了比赛证书。我想，这算是我越野体验的一个起点，看着去参加越野赛更高组别的人和景，对那种体验有无限的向往，我可能会感到艰难，我可能会精疲力竭，甚至退赛，但这一种体验是马拉松和半马赛事所不具备的。希望2025年我能够参加一场正式的，长距离的越野赛，感受身体所能带来的更好的景色。</p><p><img src="https://raw.githubusercontent.com/Noah-wang/pictures/refs/heads/main/picture/%E8%B6%8A%E9%87%8E/TrailCertificate.JPG" alt="完赛证书"></p>]]></content>
+    
+    
+    <categories>
+      
+      <category>运动-----自律给我自由</category>
+      
+    </categories>
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>我的第一次半马比赛-锦州马拉松回顾</title>
+    <link href="/2024/09/26/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%8D%8A%E9%A9%AC%E4%BD%93%E9%AA%8C/"/>
+    <url>/2024/09/26/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%8D%8A%E9%A9%AC%E4%BD%93%E9%AA%8C/</url>
+    
+    <content type="html"><![CDATA[<h1 id="暑假回国的大事就是比赛"><a href="#暑假回国的大事就是比赛" class="headerlink" title="暑假回国的大事就是比赛"></a>暑假回国的大事就是比赛</h1><p>在上次寒假回国之后参加了一场民办的小比赛，这次暑假回国还能赶上赛季，我希望能够真正跑一场正规的比赛，于是在回国前一个学期就翻遍了各种跑步app，希望能够在现在火热的跑步环境下找到一个合适的比赛来检验自己一学期的训练。</p><p>经过我不断的收集信息和报名，最终只有非中国田协认证的锦州马拉松，其他的要么是要求有半马成绩，要么是人太多了。下面是我的中签情况：</p><table><thead><tr><th>2024路跑比赛</th><th>中签情况</th></tr></thead><tbody><tr><td>5&#x2F;9宁夏•银川马拉松</td><td>中签❌</td></tr><tr><td>5&#x2F;19北京平谷半程马拉松</td><td>中签❌</td></tr><tr><td>5&#x2F;25密云生态马拉松</td><td>中签❌</td></tr><tr><td>5&#x2F;26兰州马拉松</td><td>中签❌</td></tr><tr><td>6&#x2F;16吉林马拉松</td><td>中签❌</td></tr><tr><td>6&#x2F;23贵州•黄果树半程马拉松</td><td>中签❌</td></tr></tbody></table><p>可以看到我报了大约10场，中的只有小比赛，我想这可能就是没有过往比赛成绩的劣势，不过没有关系，我还有目前的这场。中国这几年马拉松商业活动特别火热，各个公司绞尽脑子宣传出自己的特色，现在全国各地的马拉松比赛处于供不应求的阶段。北京，上海，无锡等地的马拉松能到达20万人报名抽签。虽然这个暑假没有办法体验到更多的比赛，但以后还有更多的机会，来日方长。</p><h2 id="赛前"><a href="#赛前" class="headerlink" title="赛前"></a>赛前</h2><p>这场比赛时间是6月2日，是我上一场<a href="">越野比赛</a>的一周之后，由于这不是个本地比赛，我也是感受了一下去外地比赛，以后还有更多的机会。马拉松比赛一般都是周末，大家能有机会一起参与进去，虽然我的女朋友Zoey还没有放假，但因为是周末也能和我一起去，顺便可以一起去旅游。</p><p>我们在北京，所以坐<strong>高铁</strong>很快就到了。一下高铁，就看见了高铁站门口赞助商准备的位置，是蒙牛牛奶在发，可见这样的活动在中国的规模。这仅仅还是一个非田协认证的比赛。</p><p><strong>酒店</strong>我们定了是下图的，当时看了锦州没有特别大，所以就定了一个离火车站比较近的位置。这个酒店我看了一下信息，是2019年建成的，算上疫情，可能也没怎么用过，里面设施也不错，价格也合适。我在赛前并没有看这个酒店的位置，到了地方之后发现领物的地方走着就可以过去，这还算是一个酒店的小惊喜。</p><p><img src="https://github.com/Noah-wang/pictures/blob/main/picture/%E9%94%A6%E5%B7%9E%E9%A9%AC%E6%8B%89%E6%9D%BE/JinzhouHotel.jpg?raw=true" alt="酒店还不错"></p><p>这个<strong>领物是在一个家具城</strong>里，好处是不会晒志愿者了，不足的就是显得不太专业，其他的马拉松一般都是在城市的体育管或者会议中心。整个流程和大部分的一样，先拿身份证，然后根据你的小条去找你的号码段和衣服。这样你的东西就全拿完了。中心还有一个舞台有摄影师帮你照相。整个大厅全是卖一些农产品的，没有什么体育用品的展位，可能是这个场地的原因。</p><p><img src="https://github.com/Noah-wang/pictures/blob/main/picture/%E9%94%A6%E5%B7%9E%E9%A9%AC%E6%8B%89%E6%9D%BE/stage.jpg?raw=true" alt="有人正在拍照"></p><p>根据回忆，里面有一件衣服，一盒蒙牛的牛奶（有乳糖的），一个面包，榨菜，和一袋花生米。还算比较朴素的，当然这和国外的参赛包比已经算是相当丰盛的了。现场还有一个大的姓名墙，<strong>兔子公示</strong>，我觉得这一点国内比国外要领先太多了。</p><p><img src="https://github.com/Noah-wang/pictures/blob/main/picture/%E9%94%A6%E5%B7%9E%E9%A9%AC%E6%8B%89%E6%9D%BE/NameWall.jpg?raw=true" alt="姓名墙里找到我的名字了"></p><p>领完物，记得这次马拉松参赛人员是有景区半价优惠的，于是我和Zoey就背着参赛包去了<strong>笔架山</strong>，晚上找了个商场吃了顿饭。吃的是<strong>北丐先生</strong>，这不是我们第一次吃这个了，上一次我们在威海也吃了这个，上一次我们花了两百点了一桌子菜没有吃完，我本身吃的就不少，连我都没有吃完可知这个餐厅有多实惠了。希望赶紧入驻北京。因为第二天还要比赛，也没有多逛就回去休息了。</p><p><img src="https://th.bing.com/th/id/OIP.-x6mDjg1HLwe1vnyfej3EAHaE5?w=265&h=180&c=7&r=0&o=5&pid=1.7" alt="便宜好吃的烧烤"></p><p>这次的赛道我觉得还是比较不错的，主要就是<strong>沿着凌河一直跑</strong>，然后折返。缺点就是路太宽了，10公里过后我基本就被晒的不行了，全程基本没有树荫。</p><p><img src="https://github.com/Noah-wang/pictures/blob/main/picture/%E9%94%A6%E5%B7%9E%E9%A9%AC%E6%8B%89%E6%9D%BE/JinzhouRoute.jpg?raw=true" alt="比赛路程"></p><p>这次我穿的是马孔多的上衣和帽子，2xu的压缩裤。带了三根胶一袋盐丸，赛前吃了一根GU的咖啡因，赛中准备了两根康比特冰糖葫芦味的能量胶。这个能量胶我个人感觉比GU的好入口。真到跑的时候还是得吃酸口的，流动性高的，不然比赛的时候还没累到跑不动，先被能量胶齁到了。</p><h2 id="赛中"><a href="#赛中" class="headerlink" title="赛中"></a>赛中</h2><h4 id="赛前小故事"><a href="#赛前小故事" class="headerlink" title="赛前小故事"></a>赛前小故事</h4><p>第二天早上6点我起床整理装备，比赛是7点半开始，我下楼打出租车，碰到了一个本地的人一起去跑步。他用东北口音和我说：“跟着我走就行，我知道一条近路。” 于是，大哥和司机一直再聊，哪条路封了，哪条路没封。我就在那看着他们各种拐弯最后到了目的地。下了车我问他：“您跑多少的？” 他眼神有点不稳定支支吾吾的回答我说：“我跑全马”，但他随后又抓紧说：“我是直播的。” 我听到这里还没有明白他什么意思，后面我就理解了。</p><p><em><strong>站在这里的时候，我从来没有一次跑步这么紧张过，手表130BPM的数据从不说谎，脑中一直回闪着自从我跑步这半年的每个跑过的角落，有夏天的太阳，冬天的积雪，对向跑者的示意，我每天的训练就是为了这一天。</strong></em></p><p><img src="https://github.com/Noah-wang/pictures/blob/main/picture/%E9%94%A6%E5%B7%9E%E9%A9%AC%E6%8B%89%E6%9D%BE/PreJinzhouRunning.jpg?raw=true" alt="虽然不是田协认证的比赛，但人气还是充足的。"></p><p>后面放一些摄影师拍摄的照片，一起来感受一下比赛的躁动和我的艰难，想起来比赛的时候有一件关于摄影师特别有趣的事。就在我们跑出去三四公里的时候，这时候一般都是整个比赛人员最密集的时候，所以后面跑的快的人就想从最侧面的空间提高速度。可是道路两边都是摄影师，我就听见了摄影师十分恐惧的坐在地上，边后退边恐惧的喊：“离我远点！”</p><p><img src="https://github.com/Noah-wang/pictures/blob/main/picture/%E9%94%A6%E5%B7%9E%E9%A9%AC%E6%8B%89%E6%9D%BE/JinzhouRunning1.jpg?raw=true" alt="刚开始跑的时候"></p><p><img src="https://github.com/Noah-wang/pictures/blob/main/picture/%E9%94%A6%E5%B7%9E%E9%A9%AC%E6%8B%89%E6%9D%BE/JinzhouRunning9.jpg?raw=true" alt="艰难的中途"></p><p><img src="https://github.com/Noah-wang/pictures/blob/main/picture/%E9%94%A6%E5%B7%9E%E9%A9%AC%E6%8B%89%E6%9D%BE/JinzhouRunning3.jpg?raw=true" alt="快到终点的时候"></p><h4 id="恍然大悟"><a href="#恍然大悟" class="headerlink" title="恍然大悟"></a>恍然大悟</h4><p>回来说一下我碰到的那个大哥，因为他是全马，我是半马，我们便在检录处分别，走的时候我和大哥说了一声加油，大哥漫不经心的答应了。没想到，我在10公里左右又见到了他。其实在比赛五六公里的时候我已经碰到了全马的选手，那个时候速度在四分半左右，已经高于我预期了。又往后了一段，我看见了一个熟悉的身影，就是那个大哥，他手里拿着稳定器站在回程的路线上对着我们在进行拍摄，嘴里还在说着。这时我才明白了他在赛前和我说的“我是做直播的”这句话的意思，在赛前我一直以为他是做马拉松直播的，这时我又想到了我和大哥说的那句“加油”是多么稚嫩。</p><p>最后说一个我回程最后阶段的感受，可能是因为赛道设置的原因，我在很远就能看见终点的大致方向，现在回来想想可能有4公里。我只记得我们的终点是在一个桥的下面。但由于我们是沿着凌河跑的，我在最后把好几个桥以为是终点，于是每次我以为快到了的时候，都发现那个不是终点。六月本来就很热，在这种情况下让我的内心更加焦躁了。</p><h2 id="赛后"><a href="#赛后" class="headerlink" title="赛后"></a>赛后</h2><p>最后冲过终点，那种如释重负的感觉非常美妙，就像是在水里憋气，在最后快窒息的时候终于能呼吸了。马上停表。</p><p><img src="https://github.com/Noah-wang/pictures/blob/main/picture/%E9%94%A6%E5%B7%9E%E9%A9%AC%E6%8B%89%E6%9D%BE/JinzhouRunningData.jpg?raw=true" alt="比赛数据"></p><p><img src="https://github.com/Noah-wang/pictures/blob/main/picture/%E9%94%A6%E5%B7%9E%E9%A9%AC%E6%8B%89%E6%9D%BE/JinzhouRunningCertificate.jpg?raw=true" alt="证书"></p><p>看了一眼数据，最后终于没有亏欠自己每一个努力训练的日子，也算是给自己的训练交了一份满意的答卷。跑量是比赛的基础，如果你现在0跑量，加到100一定会有进步，如果现在是100，加到200一定会有进步。</p><p>这也是第一次我感受到了消耗，回到酒店之后，Zoey摸着我的胳膊说怎么这么滑，我摸了摸，表面好像是有一层沙子一样，然后就意识到了其实那全是盐。</p>]]></content>
+    
+    
+    <categories>
+      
+      <category>运动-----自律给我自由</category>
+      
+    </categories>
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>我的第二次跑步比赛-京西长跑节</title>
+    <link href="/2024/09/24/%E6%88%91%E7%9A%84%E7%AC%AC%E4%BA%8C%E6%AC%A1%E8%B7%91%E6%AD%A5%E6%AF%94%E8%B5%9B-%E4%BA%AC%E8%A5%BF%E9%95%BF%E8%B7%91%E8%8A%82/"/>
+    <url>/2024/09/24/%E6%88%91%E7%9A%84%E7%AC%AC%E4%BA%8C%E6%AC%A1%E8%B7%91%E6%AD%A5%E6%AF%94%E8%B5%9B-%E4%BA%AC%E8%A5%BF%E9%95%BF%E8%B7%91%E8%8A%82/</url>
+    
+    <content type="html"><![CDATA[<h3 id="我的第二次跑步比赛"><a href="#我的第二次跑步比赛" class="headerlink" title="我的第二次跑步比赛"></a>我的第二次跑步比赛</h3><p>时间来到了2023年底，作为中国疫情后的第一个冬天。我选择了在寒假回国，这次回国，跑步活动也在日程之内。本来在国外人就少，没有那么多的跑步比赛。国内跑步氛围浓烈，人口基数大，能组织很多跑步比赛。这次我也是经过了冬天充足的训练，对这次的10K很有信心。</p><p><img src="https://github.com/Noah-wang/pictures/blob/main/picture/BeijingRunningFest/winterRunning.jpg?raw=true" alt="准备数据"></p><p>我很喜欢的一位跑步Up主<a href="https://space.bilibili.com/38995440?spm_id_from=333.337.0.0">黑影儿Tv</a>就曾说过：“跑量是比赛的信心” 。这也是我这次比赛之后感受到了同样也是我觉得收获最大的东西，另外还有一些意外的小惊喜，您接着往下看来看看是什么。</p><p>这次是一个标着12公里的比赛，但是由于冬天下雪不得不临时改变了道路，手表显示是11公里出头。</p><p><img src="https://github.com/Noah-wang/pictures/blob/main/picture/BeijingRunningFest/RunningData.jpg?raw=true" alt="比赛数据"></p><p>这一次我依旧是在赛前吃了一个带咖啡因的能量胶，准备了一个能量胶。有一点细微的区别，GU牌的能量胶本身就比较粘稠，在冬天就更加粘稠了，需要更多的水来送。穿上我这次选择了帽子和长裤，里面是压缩裤。因为是10公里左右的比赛，我并没有穿太少。</p><p><img src="https://github.com/Noah-wang/pictures/blob/main/picture/BeijingRunningFest/BeijngRunningFest1.JPG?raw=true" alt="感谢摄影师"></p><p><img src="https://github.com/Noah-wang/pictures/blob/main/picture/BeijingRunningFest/BeijingRunningFest2.JPG?raw=true" alt="感谢摄影师"></p><p>接着说一个我比赛的小趣事，这个比赛是民办的，规模有个500人左右，在民办的范围内不算小了，但因为是民办的，我并没有指望有国际友人来参加。这个比赛有接驳大巴，就在我车上看向窗外的时候，有一个穿着密尔沃基雄鹿队帽衫的白人上车了，经过我在国外练习时长两年半的经验，美国人很爱穿自己家乡球队的衣服，于是我留了个心眼准备有机会问问他。</p><p>我一直都没有机会有比较近的距离，直到在比赛里我看见了一个外国人。我意识到了这个人就是我在大巴上看到的那个人，于是我靠近用英语问他：“Where are you from？”，他用中文和我说：“我是美国人”。我又问：“Which state？” 他这次用了英语，不知道是不是不会说中文：“Wisconsin”。 这时我已经能够确定我对于他穿雄鹿队衣服的判断了。我说：“I study in Wisconsin. Which city do you live in?”  他说：“Madison” <strong>就这样我在北京见到了第一个麦迪逊人。</strong></p><p><img src="https://github.com/Noah-wang/pictures/blob/main/picture/BeijingRunningFest/photoWithBadgerInBeijing.JPG?raw=true" alt="珍贵的合影"></p><p>他和我说他在北京工作，已经好几年没有回麦迪逊了，只有父母还在。我和他说我刚刚参加完麦迪逊马拉松，人很多，有几千个。麦迪逊现在很像北京，非常冷。他还给我展示他胳膊上的Badger刺青，我感到很惊喜，学校吉祥物对于一所学校甚至一座城市都很重要，但纹身都纹吉祥物的确实是少数。</p><p>我和他简单聊了几句之后就和他说加速了，因为他是半马组别的。当我跑完之后，在终点等着他跑过来给他加油。</p><p>我的比赛就这么结束了，最后的成绩我很满意，奖牌也很好看。跑量是一切的基础，跑量到了，成绩不用愁。</p><p><img src="https://github.com/Noah-wang/pictures/blob/main/picture/BeijingRunningFest/BeijingRunningFestCertificate.JPG?raw=true" alt="最后成绩"></p><p><img src="https://github.com/Noah-wang/pictures/blob/main/picture/BeijingRunningFest/BeijingRunningFestMedal.JPG?raw=true" alt="奖牌"></p>]]></content>
+    
+    
+    <categories>
+      
+      <category>运动-----自律给我自由</category>
+      
+    </categories>
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>2023麦迪逊马拉松复盘</title>
+    <link href="/2024/09/13/2023%E9%BA%A6%E8%BF%AA%E9%80%8A%E9%A9%AC%E6%8B%89%E6%9D%BE/"/>
+    <url>/2024/09/13/2023%E9%BA%A6%E8%BF%AA%E9%80%8A%E9%A9%AC%E6%8B%89%E6%9D%BE/</url>
+    
+    <content type="html"><![CDATA[<h3 id="这是我人生中第一次参加的大型体育活动"><a href="#这是我人生中第一次参加的大型体育活动" class="headerlink" title="这是我人生中第一次参加的大型体育活动"></a>这是我人生中第一次参加的大型体育活动</h3><p>之前聊过为什么我打算跑了马拉松，我非常识趣的只报了10公里组。我九月份开始跑步，麦迪逊马拉松是11月初，我只有两个多月的练习时间。在打算报比赛的时候我甚至还没有跑过一个10K。我特意翻了一下我当初的成绩，现在看可以用惨不忍睹来形容。12号是比赛，附近的几天是训练。可以看到我几次的训练都是配速在六分半以外的。</p><p><img src="https://github.com/Noah-wang/pictures/blob/main/picture/%E9%BA%A6%E8%BF%AA%E9%80%8A%E9%A9%AC%E6%8B%89%E6%9D%BE/trainingAroundMM.png?raw=true" alt="惨不忍睹的成绩"></p><p>于是我也没有什么预计能知道自己会以什么样的成绩完成比赛，就这么开始了</p><p>具体的过程可以看看我<a href="https://www.bilibili.com/video/BV1Rw411W7f4/?spm_id_from=333.999.0.0">B站视频 </a></p><p>在比赛前吃了一根带咖啡因的能量胶，带了一根胶。10公里的比赛其实体感并没有那么差，和这次跑的锦州半马相比。因为麦迪逊的11月已经很冷了，起码没有特别热。</p><p><img src="https://github.com/Noah-wang/pictures/blob/main/picture/%E9%BA%A6%E8%BF%AA%E9%80%8A%E9%A9%AC%E6%8B%89%E6%9D%BE/madisonmarathon1.jpg?raw=true" alt="比赛时的照片"></p><p><img src="https://github.com/Noah-wang/pictures/blob/main/picture/%E9%BA%A6%E8%BF%AA%E9%80%8A%E9%A9%AC%E6%8B%89%E6%9D%BE/madisonmarathon2.jpg?raw=true" alt="比赛时的照片"></p><p>两张摄影师拍的照片，非常好的是虽然报名费贵了一些，但不用单独花钱买照片了。</p><p><img src="https://github.com/Noah-wang/pictures/blob/main/picture/%E9%BA%A6%E8%BF%AA%E9%80%8A%E9%A9%AC%E6%8B%89%E6%9D%BE/madison%20marathon%20record.jpg?raw=true" alt="最后的成绩"></p><p>最后成绩我自己相当满意，练习了一个多月能到同年龄组的中间位置。今年我依旧报了麦迪逊马拉松，这次有了锦州马拉松的经历选择了半马。希望今年能够留下不一样的体验，毕竟是我在麦迪逊的最后一次机会了。</p>]]></content>
+    
+    
+    <categories>
+      
+      <category>运动-----自律给我自由</category>
+      
+    </categories>
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>开学喽 我又回来了</title>
+    <link href="/2024/09/12/%E5%BC%80%E5%AD%A6%E4%BA%86/"/>
+    <url>/2024/09/12/%E5%BC%80%E5%AD%A6%E4%BA%86/</url>
+    
+    <content type="html"><![CDATA[<h3 id="回到麦迪逊了"><a href="#回到麦迪逊了" class="headerlink" title="回到麦迪逊了"></a>回到麦迪逊了</h3><p>中间断更了一个月，这段时间去忙了研究生的申请。这学期只有两节课，现在开学了就又可以稳定的更新内容了。</p><p>开学第一周就去看了和South Dakota的比赛。</p><p><img src="https://github.com/Noah-wang/pictures/blob/main/picture/VSSouthDakota.jpg?raw=true" alt="开场前的管乐团表演"></p>]]></content>
+    
+    
+    <categories>
+      
+      <category>其他</category>
+      
+    </categories>
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>橄榄球</title>
+    <link href="/2024/07/30/%E6%A9%84%E6%A6%84%E7%90%83/"/>
+    <url>/2024/07/30/%E6%A9%84%E6%A6%84%E7%90%83/</url>
+    
+    <content type="html"><![CDATA[<h3 id="除了NBA还有什么"><a href="#除了NBA还有什么" class="headerlink" title="除了NBA还有什么"></a>除了NBA还有什么</h3><p>姚明作为进入NBA名人堂的中国人给NBA带来了巨大的曝光，作为四大联盟最国际化的联盟，NBA的有名其实并不奇怪，但今天我想说的是另一个最不国际化的联盟-NFL。</p><h3 id="NFL在美国为什么那么有名"><a href="#NFL在美国为什么那么有名" class="headerlink" title="NFL在美国为什么那么有名"></a>NFL在美国为什么那么有名</h3><p>不夸张的说，NFL可能是美国最火热的联盟，甚至比NBA还要火热。就像很多人都知道超级碗中场秀，但很多人不知道的是，超级碗就是NFL的总决赛。而今年，酋长再一次的捧起了总冠军的奖杯。显然美国人并不想自嗨，近些年NFL在国际市场也想做出一些成绩。比如每个假期的夏令营，NFL会在非洲的一些国家举办夏令营找出那些适合加入联盟的人，每个赛季NFL也会有很多国外赛，但橄榄球依旧是属于美国人的运动。</p><h3 id="我为什么喜欢上了看橄榄球"><a href="#我为什么喜欢上了看橄榄球" class="headerlink" title="我为什么喜欢上了看橄榄球"></a>我为什么喜欢上了看橄榄球</h3><p><img src="https://tse4-mm.cn.bing.net/th/id/OIP-C.bayGjq9E9WRv7JsLjx58fQHaE7?w=273&h=183&c=7&r=0&o=5&dpr=1.5&pid=1.7" alt="马霍姆斯"></p><p>在高中我开始看橄榄球了，在中国橄榄球属于是小众运动，由于正式比赛的装备昂贵，很少能有人参加。另外，这项运动对于位置的选择也很严格，所以不像篮球一样大家都能有机会去控球，在最前面的线位干的活其实和球类运动没有什么关系。他们要干的事就是挡住对方的进攻，保护好四分卫。四分卫就像是球队里的队长一样，他负责主导进攻和指挥，并且场上只有一个四分卫，所以这个位置无论是在美国的高中还是大学里都算得上的是风云人物。说到四分卫，我就不得不提到我最喜欢的球员-马霍姆斯了。他是一名新星，大家都认为他可以超越橄榄球名宿-汤姆布莱迪，马霍姆斯的打法很有侵略性，他总是能在几乎不能的时候把球传出去。如果说马霍姆斯球队的左膀，那么凯尔西可以称为右臂。他们的连线总是经常成功，如果说一场比赛不严格限制凯尔西的接球，那么这场比赛几乎是没有悬念的。</p><p>正是马霍姆斯这种激进，有观赏性的打法才让我喜欢上了橄榄球，在绝境中另辟蹊径。</p>]]></content>
+    
+    
+    <categories>
+      
+      <category>运动-----自律给我自由</category>
+      
+    </categories>
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>聊聊婚姻(7-24-To be Continued)</title>
+    <link href="/2024/07/24/%E8%81%8A%E8%81%8A%E5%A9%9A%E5%A7%BB%E7%8A%B6%E6%80%81%E4%B8%8B%E7%9A%84%E5%AE%B6%E5%BA%AD%E5%85%B3%E7%B3%BB/"/>
+    <url>/2024/07/24/%E8%81%8A%E8%81%8A%E5%A9%9A%E5%A7%BB%E7%8A%B6%E6%80%81%E4%B8%8B%E7%9A%84%E5%AE%B6%E5%BA%AD%E5%85%B3%E7%B3%BB/</url>
+    
+    <content type="html"><![CDATA[<h3 id="21岁的我，是个学生，还是一个姑娘的男朋友"><a href="#21岁的我，是个学生，还是一个姑娘的男朋友" class="headerlink" title="21岁的我，是个学生，还是一个姑娘的男朋友"></a>21岁的我，是个学生，还是一个姑娘的男朋友</h3><p>这不新鲜，大部分人在校期间都曾经有过恋爱，我的恋爱可能有些许不同，我的女朋友是我的初中同学，我们谈了7年（截止到2024年）了，所以已经经过了很多年的了解。</p><h3 id="她是我们初中学习最好的学生"><a href="#她是我们初中学习最好的学生" class="headerlink" title="她是我们初中学习最好的学生"></a>她是我们初中学习最好的学生</h3><p>由于我们学校是分班制，整个年级分为四个程度的班。按照每次考试成绩的排名进行调整，现在看来真是高强度。我的平均成绩就是在A和B之间游走。初中三年掉下到B级两次。而她从未掉出过A，甚至可以说连前五都没有掉出去过。</p><p>她被老师寄托了很大的希望。我的班主任曾经跟我说：“如果因为这事把人家成绩耽误了，人家家长饶不了你。” 结果不出意外的——她考了我们学校的第一，我考了我们学校的第六。</p><h3 id="到了高中，走上了不同的道路"><a href="#到了高中，走上了不同的道路" class="headerlink" title="到了高中，走上了不同的道路"></a>到了高中，走上了不同的道路</h3><p>由于北京户口的特殊性，我没有在北京高考的机会，所以我被迫面临抉择：回户籍或者出国，如果有人读过我之前的文章，显然已经知道了我选了哪条路，我选择了出国学习。而她以学校第一的成绩去了实验中学。虽然现在都在北京，但不得不想到的是上完高中面临的是什么。</p><p>如果说现在的年轻人普遍不愿意找对象，不如说是不敢找对象。我们曾经就是一对15岁的初中生，我们是相互看着对方长大的。<strong>在最无忧无虑的年纪遇上最天真无邪的对方。</strong>在学生时代之后的恋爱，就算是想想都有够艰难的。</p><h3 id="学生之后的身份的变化，令人猝不及防"><a href="#学生之后的身份的变化，令人猝不及防" class="headerlink" title="学生之后的身份的变化，令人猝不及防"></a>学生之后的身份的变化，令人猝不及防</h3><p>在现代社会里，人的身份是复杂的。有很多的人都无法适应这种身份的变化，一旦学生的身份被夺取以后，会发现曾经所有的借口都没有了。“不用挣钱，还是学生呢” “不用干活，还是学生呢”，“不用担心，还是学生呢”。仿佛只要你是个学生，除了学习其他的什么都不用管。正是这种现象才令很多人对学生之外的身份感到陌生。</p>]]></content>
+    
+    
+    <categories>
+      
+      <category>随笔-----生活中冒出的小火花</category>
+      
+    </categories>
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>加州，那个传说中的地方</title>
+    <link href="/2024/07/22/%E5%8A%A0%E5%B7%9E%EF%BC%8C%E9%82%A3%E4%B8%AA%E4%BC%A0%E8%AF%B4%E4%B8%AD%E7%9A%84%E5%9C%B0%E6%96%B9/"/>
+    <url>/2024/07/22/%E5%8A%A0%E5%B7%9E%EF%BC%8C%E9%82%A3%E4%B8%AA%E4%BC%A0%E8%AF%B4%E4%B8%AD%E7%9A%84%E5%9C%B0%E6%96%B9/</url>
+    
+    <content type="html"><![CDATA[<h2 id="这是我第二次来到加州"><a href="#这是我第二次来到加州" class="headerlink" title="这是我第二次来到加州"></a>这是我第二次来到加州</h2><p>加州是全世界人们向往的地方，集文化、科技、艺术、人文和自然于一体。这是我第二次造访加州，依然能感受到它的奇妙和新鲜。</p><p>第二次去是与高中同学相聚的时刻，我们先在旧金山开始了我们的冒险。</p><p>在旧金山，我们参观了Apple Park，购买了一些苹果的纪念品。</p><p><img src="https://github.com/Noah-wang/pictures/blob/main/picture/2023.1.3%E6%97%A7%E9%87%91%E5%B1%B1%E6%B4%9B%E6%9D%89%E7%9F%B6/2023%E8%B7%A8%E5%B9%B401.jpg?raw=true" alt="加州科技的代表: Apple Park"></p><p>加州的地势多变，正如一位出租车司机所说：“加州是人定胜天的代表”。尤其是靠近渔人码头的区域，道路起伏不平，许多车辆停在陡峭的坡道上。</p><p><img src="https://github.com/Noah-wang/pictures/blob/main/picture/2022.8.23%E6%B4%9B%E6%9D%89%E7%9F%B6%20%E6%97%A7%E9%87%91%E5%B1%B1/SFLA27.jpeg?raw=true" alt="起起伏伏的车道"></p><p><img src="https://github.com/Noah-wang/pictures/blob/main/picture/2023.1.3%E6%97%A7%E9%87%91%E5%B1%B1%E6%B4%9B%E6%9D%89%E7%9F%B6/2023%E8%B7%A8%E5%B9%B405.jpg?raw=true" alt="旧金山的渔人码头"></p><p><img src="https://github.com/Noah-wang/pictures/blob/main/picture/2023.1.3%E6%97%A7%E9%87%91%E5%B1%B1%E6%B4%9B%E6%9D%89%E7%9F%B6/2023%E8%B7%A8%E5%B9%B419.jpg?raw=true" alt="金门大桥"></p><p>抵达洛杉矶后，我们探索了许多著名景点。正值《侠盗猎车手5》风靡全球，我们几乎所有人都先在游戏中对这个城市有了初步了解。</p><p><img src="https://github.com/Noah-wang/pictures/blob/main/picture/2023.1.3%E6%97%A7%E9%87%91%E5%B1%B1%E6%B4%9B%E6%9D%89%E7%9F%B6/2023%E8%B7%A8%E5%B9%B429.jpg?raw=true" alt="格里菲斯天文台"></p><p><img src="https://github.com/Noah-wang/pictures/blob/main/picture/2023.1.3%E6%97%A7%E9%87%91%E5%B1%B1%E6%B4%9B%E6%9D%89%E7%9F%B6/2023%E8%B7%A8%E5%B9%B434.jpg?raw=true" alt="洛杉矶的高低落差"></p><p>从格里菲斯天文台眺望洛杉矶市区，让我深感世界闻名的高楼大厦也只是这座城市的一部分。</p><p><img src="https://github.com/Noah-wang/pictures/blob/main/picture/2023.1.3%E6%97%A7%E9%87%91%E5%B1%B1%E6%B4%9B%E6%9D%89%E7%9F%B6/2023%E8%B7%A8%E5%B9%B433.jpg?raw=true" alt="从格里菲斯天文台远眺洛杉矶市区"></p><p><img src="https://github.com/Noah-wang/pictures/blob/main/picture/2022.8.23%E6%B4%9B%E6%9D%89%E7%9F%B6%20%E6%97%A7%E9%87%91%E5%B1%B1/SFLA33.jpeg?raw=true" alt="洛杉矶市当红炸子鸡"></p><p><img src="https://github.com/Noah-wang/pictures/blob/main/picture/2023.1.3%E6%97%A7%E9%87%91%E5%B1%B1%E6%B4%9B%E6%9D%89%E7%9F%B6/2023%E8%B7%A8%E5%B9%B442.jpg?raw=true" alt="圣莫妮卡海滩"></p><p><img src="https://github.com/Noah-wang/pictures/blob/main/picture/2022.8.23%E6%B4%9B%E6%9D%89%E7%9F%B6%20%E6%97%A7%E9%87%91%E5%B1%B1/SFLA32.jpeg?raw=true" alt="圣莫妮卡的海岸线"></p><p>圣莫尼卡海滩的景色令人心旷神怡，这里的海岸线更是让人留连忘返。</p><p>这次加州之行，不仅让我更加了解了这个多元化和充满活力的地方，也让我与朋友们共享了难忘的回忆。</p>]]></content>
+    
+    
+    <categories>
+      
+      <category>影像-----视觉动物</category>
+      
+    </categories>
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>重新回到iPhone</title>
+    <link href="/2024/05/19/%E9%87%8D%E6%96%B0%E5%9B%9E%E5%88%B0iPhone/"/>
+    <url>/2024/05/19/%E9%87%8D%E6%96%B0%E5%9B%9E%E5%88%B0iPhone/</url>
+    
+    <content type="html"><![CDATA[<h2 id="现在是2024年，我又用回了iPhone"><a href="#现在是2024年，我又用回了iPhone" class="headerlink" title="现在是2024年，我又用回了iPhone"></a>现在是2024年，我又用回了iPhone</h2><p>我的手机突然坏了，用不了wifi了。因为这学期的一门前端课的，当我发现我重启手机都打不开手机wifi界面的switch的时候，我知道这功能彻底完蛋了。上网搜了搜原因，果不其然是因为骁龙888的过热，wifi模块脱焊了。看了看其他人都是一两年就坏了，我这个用了三年又恰好快要回国了，真算是幸运了。更加搞笑的是，一周前才刚刚说这手机再战一两年没什么问题。我现在周边的朋友都知道我是一个坚定的安卓党，手机用安卓，平板用安卓，电脑用Windows。他们不知道十年前我曾是一个狂热的苹果粉丝，而在十年前的2014年，那是乔布斯去世后的第一款不是他设计的产品，那也使我彻底放弃了苹果的阵营，转头到了安卓。</p><p><img src="https://th.bing.com/th/id/R.8c985a3d2cbbb168db5b6ab6153fb05f?rik=Qm4cAEirkqnqIg&pid=ImgRaw&r=0" alt="一加9pro"></p><h2 id="安卓最好的时代"><a href="#安卓最好的时代" class="headerlink" title="安卓最好的时代"></a>安卓最好的时代</h2><p>我一直在用的手机是一加9pro，当初就是在一加6t入的坑。我很认同一加当初的设计理念和想法，可惜没有坚持下来。那几年是我认为安卓最好的时代。从充电速度到高刷，无一不是极大了提高了安卓的使用体验，而从前被极大诟病的卡顿在那个时候也被改善了，虽然现在时间长了也是过减速带一样的体验，但这是底层代码的原因，很难彻底被避免。</p><p>在这些年是安卓和iPhone差距最小的时候，也有不少人从苹果换到了安卓。可以看见的是，苹果是真实感受到了压力，无论是中国版的双卡还是苹果的高刷跟进。平板方便就更加明显了，这样一个曾经没有给安卓一点机会的设备竟然是现在苹果产品线问题最大的产品，大部分人仅仅就是轻娱乐和轻办公（视频和文字工作）。他们其实需要的就是一个大的屏幕，而不是一个桌面级的处理器，而苹果还揪着自己那高刷不放给自己的次旗舰。面对着安卓的围追堵截，今年iPhone的销量又下滑了，iPad属于个没什么人买的状态。可以预见的是，苹果这种每代微乎其微的升级也是让无数人失望了。</p><h2 id="我为什么又用回了iPhone"><a href="#我为什么又用回了iPhone" class="headerlink" title="我为什么又用回了iPhone"></a>我为什么又用回了iPhone</h2><p>在这样一个属于安卓的时代，为什么我又换回了iPhone呢。</p><p>这学期上了前端的课程，在推特上也看见了很多独立的开发者，他们无一例外的都选择了首发ios测试，这也是在我心里埋下了种子。又和朋友说了说这个想法，朋友也有相同的想法，苹果对系统的支持和开发者对系统的支持已经是遥遥领先了，这彻底颠覆我对苹果的印象，我还停留在当初那个不越狱不能用的阶段，现在全球的开发者已经给苹果做了无数的支持和环境。</p><p><img src="https://th.bing.com/th/id/OIP.T4LP_JMFseRH3c842-roFwHaEK?rs=1&pid=ImgDetMain" alt="越狱过的人肯定懂这是什么"></p><p>十年过去了，回过头了我还记得给iPad越狱的时候，在那个时候，苹果的一切都不能自定义，那还是一个流行自定义主题的时代，越狱除了能够自定义，还能够免费玩游戏。<strong>当时的App Store消费的全都是美元，没有国区，因为这还闹过个笑话。看着应用就几块钱，想想花点钱买也可以，但后来发现那全都是美元，在现在这样一个全球化的时代想想也是挺有意思的一件事。</strong></p>]]></content>
+    
+    
+    <categories>
+      
+      <category>随笔-----生活中冒出的小火花</category>
+      
+    </categories>
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>当我们在讨论学英语，我们在讨论什么</title>
+    <link href="/2024/05/15/%E5%9C%A8%E4%B8%AD%E5%9B%BD%E5%92%8C%E5%9C%A8%E7%BE%8E%E5%9B%BD%E7%9A%84%E8%8B%B1%E8%AF%AD/"/>
+    <url>/2024/05/15/%E5%9C%A8%E4%B8%AD%E5%9B%BD%E5%92%8C%E5%9C%A8%E7%BE%8E%E5%9B%BD%E7%9A%84%E8%8B%B1%E8%AF%AD/</url>
+    
+    <content type="html"><![CDATA[<h1 id="英语学习真是让无数人痛苦的事"><a href="#英语学习真是让无数人痛苦的事" class="headerlink" title="英语学习真是让无数人痛苦的事"></a>英语学习真是让无数人痛苦的事</h1><p>中国的传统学科-语数英，每次提到中国的义务教育，他们就像桃园三兄弟一样同时出现。这三科每个都困扰着无数的年轻同学，虽然我的英语也没有那么好，但这几年在国外学习的经历让我看到了英语的另外一面，这一面我觉得是在国内学习英语从来都不会窥探到的。我们首先需要把目标定在<strong>通过学习英语在美国生活或者旅游的基础</strong>上，大部分人其实是不需要使用英语学习这一层面的，所以这对写作和语法要求减小了很多的压力。</p><h1 id="单词"><a href="#单词" class="headerlink" title="单词"></a>单词</h1><p>当我们在谈论到学习英语，我们无非就是谈到了听说读写这几个部分。我认为中国这一套英语学习方式与我当初学习托福或者说现在认同的学习英语的方式有很大的不同。首先先说背单词这件事。单词我认为是英语学习当中相当重要的一环，这直接影响了你理解英语的方式。现在义务教育当中的英语单词储备是远远不够的，尤其是生活的词汇。就拿初中生英语词汇量要求来说，课程标准只要求1600词，就算老师要求有很多高级的单词来应付中考，那无非也才2000词。这个水平连一个美国6岁的儿童都不如，你想想一个6岁的孩子能说多少词，他的交流水平怎么样。单单依靠这些单词是无法生存的。高中的要求稍微高一些，到了3500。这个水平就更加搞笑了，一个高中生的交流水平还不如一个小学生。所以这个单词量是远远不够了，这直接的影响你的英语水平。背单词是一辈子的事，只要你决定这辈子还说英语，你就得背单词。</p><h1 id="语法"><a href="#语法" class="headerlink" title="语法"></a>语法</h1><p>另一个我极其不同意的是语法，根据我在美国生活的经历来说，没有一个人因为我的语法而听不明白我说的是什么，相较于语法，我那些发音不标准的单词才会给他们带来困扰，虽然他们在中国人的语言发音体系当中很相似，但在美国人眼里，他们是完全不相干的发音和意思。当然，学习句子构成很重要，我这里所说的语法是各种各样的从句。他们给句子增加了复杂性，但日常生活中没有一个人会说带从句的话，除非他很愤怒或者他在演讲。这极大加大了英语学习的难度，也是大部分人放弃的地方。其实这些句子完全可以在后期才用上的，完全可以通过语感来训练出来的。</p><h1 id="一次印象深刻的英语经历"><a href="#一次印象深刻的英语经历" class="headerlink" title="一次印象深刻的英语经历"></a>一次印象深刻的英语经历</h1><p>我还记得我刚到了美国，语言就给我上了一课。我第一次去Walgreen买东西，最后服务员说You are all set. 如果说你之前在美国旅游或者上学的人一定对这句话不陌生，因为几乎每一个需要实体交易的场合他们都会说的。这句话就是一切都搞定的意思。但当时我就蒙了，我没听明白那句话是什么意思，于是我原地呆了两秒钟然后问他说的是啥，他又重复了一遍，这次我才终于明白了他应该是说的是好了的意思。这件事给我留下了深刻的印象，因为我从来没听说过这句话，我一开始还以为是因为这句话说的太少了，所以不知道，但后来几乎每个人都说，我顿时就感到了疑惑，使用这么频繁的一句话为什么在我的义务教育当中从来没有被提及过。</p><h2 id="在美国的英语意味着社会"><a href="#在美国的英语意味着社会" class="headerlink" title="在美国的英语意味着社会"></a>在美国的英语意味着社会</h2><p>一个大部分人都明白的道理就是：在国内英语是加分项，你英语好，考的分高，你就有学术上的优势，但在美国英语是一个基础项，它是基本的工具。但我想说的是，在美国英语不止是在国内这些人所看到的这样。举一个最近的热门事件，成都的一个rapper经常口中挂着You know what am I saying. Damn等等在美国西海岸帮派团伙当中出现的口头禅。为什么这个人会很火？我想大部分都是因为大家认为他滑稽和与身份不符的口头禅非常搞笑。我也不例外，这个人在我眼中滑稽的过了头，一个土生土长的中国人，甚至高中都没有读过，居然把一个美国帮派成员的口头禅当成习惯，甚至他可能都没有去过美国，这种强烈的反差感真的是让人感觉可笑。就像为什么北京话这个方言让中文互联网圈的参与者都知道，他代表了你从哪来。所以一个人的言行实际上是代表了他的出身和社会，英语也是这样的，纽约口音和德州口音肯定不一样。这些东西只有你身处美国才能感受的到，所以在美国学习英语除了基本的意思和概念，还有社会的变化，那些伴随着历史所改变的文化，语言绝非是理解意思那么简单的事，很多地道的发音的用法只是英语的表面，而更加深层的东西是铸造了我们现在看到的英语的样子。</p>]]></content>
+    
+    
+    <categories>
+      
+      <category>随笔-----生活中冒出的小火花</category>
+      
+    </categories>
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>聊聊机核</title>
+    <link href="/2024/04/26/%E8%81%8A%E8%81%8A%E6%9C%BA%E6%A0%B8/"/>
+    <url>/2024/04/26/%E8%81%8A%E8%81%8A%E6%9C%BA%E6%A0%B8/</url>
+    
+    <content type="html"><![CDATA[<h2 id="机核是一家游戏媒体公司"><a href="#机核是一家游戏媒体公司" class="headerlink" title="机核是一家游戏媒体公司"></a>机核是一家游戏媒体公司</h2><p>最初听到他们制作的内容是在小宇宙上，那个时候刚刚进入了博客的领域，有很多的内容都是在博客上获取到的，我觉得那是个特别好的吸取知识的地方。一开始听博客是因为高三每天要5点半起床坐地铁上学，北京地铁你懂的，基本上进去你就没有活动的空间了，手在那个情况下也很难操作手机，所以微博看不了，只能通过博客来获取信息了，我又是一个游戏迷，从小到大一直坚持的事除了睡觉和吃饭可能就是游戏了。但没有过多的了解产业和游戏深层的东西。这个时候我就发现了机核，这是一个游戏媒体。他有每周的常规游戏新闻节目，主要就是聊一聊每周发生的游戏新闻。还有机浪节目，这个节目就是大家就某个新游戏来教教自己的看法。</p><h2 id="机核是一家文化媒体公司"><a href="#机核是一家文化媒体公司" class="headerlink" title="机核是一家文化媒体公司"></a>机核是一家文化媒体公司</h2><p>更加吸引我的除了游戏，就是机核关于文化的博客节目。因为机核是一家北京公司，同为北京长大的人来说有很多的内容能感同身受。Gadio Life节目就是关于大家生活中的种种趣事。这些各种各样的故事常常让人开怀大笑。尤其搭配上金牌主播Nadya的魔性笑声，给整个节目的基调带来了诙谐轻松的感觉。</p><h2 id="机核是一家知识媒体公司"><a href="#机核是一家知识媒体公司" class="headerlink" title="机核是一家知识媒体公司"></a>机核是一家知识媒体公司</h2><p>更加难以置信的是机核的会员节目又是那么严肃，和上一个part形成了鲜明的对比。其中张腾岳老师的美食历史节目让人印象深刻。因为我本身就是一个热爱做饭的人，但我从来没有了解过中国的美食历史。机核的会员节目可以说是值回票价的项目。</p><h2 id="机核是一家搞笑媒体公司"><a href="#机核是一家搞笑媒体公司" class="headerlink" title="机核是一家搞笑媒体公司"></a>机核是一家搞笑媒体公司</h2><p>除了常规的博客节目， 在B站上机核也有发视频。近两年的恐怖游戏视频也是笑点十足。除了音频上的表现，视频表现更是锦上添花</p>]]></content>
+    
+    
+    <categories>
+      
+      <category>随笔-----生活中冒出的小火花</category>
+      
+    </categories>
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>风花雪月</title>
+    <link href="/2024/04/24/%E9%A3%8E%E8%8A%B1%E9%9B%AA%E6%9C%88/"/>
+    <url>/2024/04/24/%E9%A3%8E%E8%8A%B1%E9%9B%AA%E6%9C%88/</url>
+    
+    <content type="html"><![CDATA[<h2 id="大理是一个高对比度的地方"><a href="#大理是一个高对比度的地方" class="headerlink" title="大理是一个高对比度的地方"></a>大理是一个高对比度的地方</h2><p>风花雪月说的是大理，这四种景色在一个城市内存在，这也就是我为什么说大理是个高对比度的地方。下关风，上关花，苍山雪，洱海月。随着郝云一首去大理，这个城市算是走进了大家的眼中。</p><p><img src="https://github.com/Noah-wang/pictures/blob/main/picture/2023.7.21%E5%A4%A7%E7%90%86/2023.7.21%E5%A4%A7%E7%90%8625.jpg?raw=true" alt="苍山一景"></p><p>大理我是第一次去，7月末的云南温度十分适。在上到了苍山，空气变得湿润起来，感觉在这样的环境下，人都变得滋润了起来。</p><p><img src="https://github.com/Noah-wang/pictures/blob/main/picture/2023.7.21%E5%A4%A7%E7%90%86/2023.7.21%E5%A4%A7%E7%90%8606.jpg?raw=true" alt="苍山的小草"></p><p>上到半山腰，整座山都被云覆盖了。整个山就像一座古朴又神秘的城堡，驱使着人们探索他。</p><p><img src="https://github.com/Noah-wang/pictures/blob/main/picture/2023.7.21%E5%A4%A7%E7%90%86/2023.7.21%E5%A4%A7%E7%90%8626.jpg?raw=true" alt="神秘的山"></p><p>在这样的环境下看到一泊水湾，给这座浓雾下的山峰增添了一丝灵性</p><p><img src="https://github.com/Noah-wang/pictures/blob/main/picture/2023.7.21%E5%A4%A7%E7%90%86/2023.7.21%E5%A4%A7%E7%90%8616.jpg?raw=true" alt="一泊水湾"></p><p>除了温婉和柔和，高耸的山峰和稀薄的氧气也在提醒着我们这是一座沉睡的猛兽</p><p><img src="https://github.com/Noah-wang/pictures/blob/main/picture/2023.7.21%E5%A4%A7%E7%90%86/2023.7.21%E5%A4%A7%E7%90%8605.jpg?raw=true" alt="凌冽的山峰"></p><p>到了洱海又是另一番景象，与苍山的阴沉有别，火爆的景点吸引着无数的游客前来游玩</p><p><img src="https://github.com/Noah-wang/pictures/blob/main/picture/2023.7.21%E5%A4%A7%E7%90%86/2023.7.21%E5%A4%A7%E7%90%8628.jpg?raw=true" alt="洱海"></p><p>世界上只要是海，就会吸引无数的人前往</p><p><img src="https://github.com/Noah-wang/pictures/blob/main/picture/2023.7.21%E5%A4%A7%E7%90%86/2023.7.21%E5%A4%A7%E7%90%8630.jpg?raw=true" alt="洱海小船"></p><p>在这个环境下总是有很多的意外</p><p><img src="https://github.com/Noah-wang/pictures/blob/main/picture/2023.7.21%E5%A4%A7%E7%90%86/2023.7.21%E5%A4%A7%E7%90%8631.jpg?raw=true" alt="谁的快乐飞走了"></p><p>海的对面就是山，山的对面还是海</p><p><img src="https://github.com/Noah-wang/pictures/blob/main/picture/2023.7.21%E5%A4%A7%E7%90%86/2023.7.21%E5%A4%A7%E7%90%8632.jpg?raw=true" alt="山和海"></p>]]></content>
+    
+    
+    <categories>
+      
+      <category>影像-----视觉动物</category>
+      
+    </categories>
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>我最喜欢的旅行博主-杨旭游记</title>
+    <link href="/2024/04/12/%E6%88%91%E6%9C%80%E5%96%9C%E6%AC%A2%E7%9A%84%E6%97%85%E8%A1%8C%E5%8D%9A%E4%B8%BB-%E6%9D%A8%E6%97%AD%E6%B8%B8%E8%AE%B0/"/>
+    <url>/2024/04/12/%E6%88%91%E6%9C%80%E5%96%9C%E6%AC%A2%E7%9A%84%E6%97%85%E8%A1%8C%E5%8D%9A%E4%B8%BB-%E6%9D%A8%E6%97%AD%E6%B8%B8%E8%AE%B0/</url>
+    
+    <content type="html"><![CDATA[<h2 id="这一个月没有更新，先来说说这一个月在干什么"><a href="#这一个月没有更新，先来说说这一个月在干什么" class="headerlink" title="这一个月没有更新，先来说说这一个月在干什么"></a>这一个月没有更新，先来说说这一个月在干什么</h2><p>过去的这一个多月真是十分疲惫，其中有四场考试，其中三场之后是10天的春假，春假回来又开始考试。一个月之后的今天我应该刚刚准备从香港起飞到北京。我也是刚刚选好了下学期的课，本来是打算暑假上完就结束我的本科生涯的，但是暑假的毕业要求有限制只能把剩下的两节课移到下学期上。目前是春假回来的第二周，这也是本学期的倒数第四周了，那么我回来这一篇来谈一谈对我很重要的一位博主-杨旭游记。可以说如果没有看到杨旭游记这个账号，我是不会喜欢上我现在包括摄影等等的爱好的。</p><h2 id="初见杨旭"><a href="#初见杨旭" class="headerlink" title="初见杨旭"></a>初见杨旭</h2><p>我是在2021年到了美国之后才刷的杨旭的视频的，那期视频是介绍<a href="https://www.bilibili.com/video/BV19V411x7eR/?spm_id_from=333.337.search-card.all.click&vd_source=b6f36fb9e66c7fc58ac626cfe550303e">剑门关</a>的 ，点进去被里面凶险的峭壁所吓到。</p><p><img src="https://raw.githubusercontent.com/Noah-wang/pictures/main/picture/jianmenguan.png" alt="剑门关"></p><p>一翻博主的主页发现这之前已经发了相当多的内容了，于是每天就玩命的看，之后就一发不可收拾一直追到现在。我之前的文章说过有很多的事情是我来到美国之后才爱上的，旅游也不例外，这可能就是失去了什么才开始珍惜吧。当时刚到美国真的觉得这个国家离我想象当中的那个国家差距太大了，对现实很不满意，每天混混噩噩提不起兴趣。杨旭的视频就像是给我的世界加了一道任意门，让我感觉回到了中国。每天看杨旭的视频就像是沉迷在酒精里无法自拔。他的视频有我之前不太感兴趣的旅游视频所不具备的特点。一是他是开着一辆房车自驾游的，这其实对于我不是特别的吸引，因为他在视频里展示了房车旅游的优势同时也得担心水和电的问题。直到最近的一些视频也提出了房车在一些景区的区别对待。二是他不同于其他的旅游博主那样做作，很多的地方是他自己真心的热爱。他在视频里就提到了在这次房车自驾之前，自己就已经开着轿车环中国行了两遍了，所以他去的很多地方都是质量上乘的。最后就是说话的方式很随和，刚到美国的我还没有意识到国内地域差异这件事。后来我又推荐给我的朋友和爸妈，我看完一遍就又看完一遍。至今我已经看过四遍了。如今大学也要毕业了，我真的非常感谢杨旭，他的视频陪伴我度过了我大学里黑暗的日子，让我又对生活充满了热情。</p><h2 id="看了杨旭的视频才能意识到中国有多大"><a href="#看了杨旭的视频才能意识到中国有多大" class="headerlink" title="看了杨旭的视频才能意识到中国有多大"></a>看了杨旭的视频才能意识到中国有多大</h2><p>在美国这几年我也去了美国的东-纽约，南-奥兰多，西-加州，北-威斯康星。我可以负责任的说美国虽然很大，但绝不是像中国这样各个地区的文化差异巨大。最近在看杨旭深入自驾云南，更加作证了我的这个想法。我有一个暴论就是：你玩遍中国之后，中国周围的这一圈国家除了日韩其实是不太用去旅游的。自然风光和基础设施不如中国，只有人文和经济上有不同。举一个例子，我22年暑假上了一门中文说唱历史课，班里有三个来夏令营的韩国人，其中有一节课的主题是方言说唱，主要就是说中国不同的方言给说唱增加了更多的可能性，比如韵脚和词汇用法。我告诉其中的一个韩国人：我是个中国北方的人，我去中国的南方城市可能完全听不懂他们说什么。那个韩国人用一种惊讶和害怕的表情说：really!? 通过这个生活中有趣的小片段其实就可以说明这个特性了。更别说我之后有看见了杨旭到延边的视频，不知道和那个韩国人说中国有一个城市的方言是韩语的时候他的表情会变得多惊讶和害怕。</p><p><img src="https://raw.githubusercontent.com/Noah-wang/pictures/main/picture/%E5%BB%B6%E8%BE%B9.png" alt="延边"></p><p>北边有韩朝的文化，南方有热带和广州福建的文化重镇。西边有更加偏中东的风格。东边有沿海的风情。这种风格多变的画面同时出现在同一个国家真的是一件幸运的事情。看了杨旭的视频我也了解到了中国的很多景点和方位，可能很多的景点对于一个爱旅游的人来说很熟悉，但对于我一点也不熟悉，看了视频之后有了很多我心里说一定要去的地方，就比如纳木错，那一期视频实在是拍的太漂亮了，去年暑假我也是去了西藏，看了羊卓雍措，真的就像是杨旭在视频里说的：看到了这样的景色，这一辈子死了也值得了。还有很多我印象深刻的视频和地方，比如新疆和内蒙古，作为一个爱烹饪的人，这是我从来没有接触过的菜式，我也很期待当地的美食。</p><h2 id="旅游看起来像是一件光鲜亮丽又有重量的首饰"><a href="#旅游看起来像是一件光鲜亮丽又有重量的首饰" class="headerlink" title="旅游看起来像是一件光鲜亮丽又有重量的首饰"></a>旅游看起来像是一件光鲜亮丽又有重量的首饰</h2><p>我其实是一个不太愿意旅游也没怎么旅游过的人。现在想起来在那之前我只去过云南，四川，和华北平原一些有名的景点，其他地方是没有什么记忆的。当然，我看过杨旭的视频之后的暑假又去了国内更远的西藏。旅游也不是一件轻松的事情，自古以来远行都是一件大事或者是难事：父母在，不远游，游必有方。读万卷书，行万里路。世界那么大，我想去看看。这其中不止要求有勇气还需要经济的支持。说说我从小到大去过的地方。北京，天津，河北，山西，山东，云南，四川，西藏，广州，上海，南京，重庆，内蒙古。麦迪逊，纽约，奥兰多，芝加哥，洛杉矶，旧金山，密尔沃基。基本上就是这些，如果要深入到市，那就更加局促了。这些地方大多都是近五年才去过的，时间是阻碍旅游的最大敌人。旅游不是一件易事，有很多的矛盾和摩擦是在旅游里发生的，旅游其中的不确定因素太多了，很难让人做到百分百满意，所以有人说检验一段感情是否合适就是让他们去旅行，看他们是否能够解决其中的不愉快。这点在杨旭的视频里也有体现，一个人的旅游都有不满意的地方，更别说两个人了。和女友出去玩过两次，其中几乎没什么摩擦，只能说比这苦的日子都过来了，这也不会有什么摩擦。旅游不是一件轻松的事，我可以这比大部分人每天的活动量要高出太多。在旅行中，其实最重要的还是心情，风景和照片什么的其实都不太重要，所以在要产生摩擦的时候还是多替他人想想，分担一下也就过去了。</p><h3 id="希望我们国家的每个人都有能走出去看看的机会"><a href="#希望我们国家的每个人都有能走出去看看的机会" class="headerlink" title="希望我们国家的每个人都有能走出去看看的机会"></a>希望我们国家的每个人都有能走出去看看的机会</h3>]]></content>
+    
+    
+    <categories>
+      
+      <category>随笔-----生活中冒出的小火花</category>
+      
+    </categories>
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>关于在美国吃饭这件事</title>
+    <link href="/2024/03/03/%E5%85%B3%E4%BA%8E%E5%9C%A8%E7%BE%8E%E5%9B%BD%E5%90%83%E9%A5%AD%E8%BF%99%E4%BB%B6%E4%BA%8B/"/>
+    <url>/2024/03/03/%E5%85%B3%E4%BA%8E%E5%9C%A8%E7%BE%8E%E5%9B%BD%E5%90%83%E9%A5%AD%E8%BF%99%E4%BB%B6%E4%BA%8B/</url>
+    
+    <content type="html"><![CDATA[<h2 id="吃饭是一件重要的事-尤其是对于中国人来说"><a href="#吃饭是一件重要的事-尤其是对于中国人来说" class="headerlink" title="吃饭是一件重要的事 尤其是对于中国人来说"></a>吃饭是一件重要的事 尤其是对于中国人来说</h2><h3 id="在没住进公寓以前的情况"><a href="#在没住进公寓以前的情况" class="headerlink" title="在没住进公寓以前的情况"></a>在没住进公寓以前的情况</h3><p>在美国吃饭，除了极其极其传统的线下以外，还有线上的选择。在我住的地方周围有很多餐厅，三分之一是酒吧，三分之一是亚洲菜，三分之一是美国菜。在我还没有住进公寓的时候，我线下的选择一般是学校的食堂和州街的一家四川菜。</p><p>因为我第一年住在学校宿舍，宿舍强制要求选择meal plan，需要在学生卡里充一些钱，这些钱在食堂吃饭会有折扣。这些钱也可以在学校的bookstore消费，bookstore就是卖学校一些周边纪念品的地方。但是由于第一学期的时候宿舍底下的食堂还是按照你吃什么来结账（到了下学期就全是自助了，此时只有其中一家食堂是自助），所以食堂一直没有什么人来。直到我马上就要毕业了，在我暑假买了四百刀纪念品的情况下我的卡里还剩下一百刀的钱没有花完.</p><p>那大多的时候就是外卖了，在美国有两个主流的外卖软件，一个叫DoorDash，另一个叫Uber eats。</p><img src="https://caregiversolutions.ca/wp-content/uploads/doordash-logo-web.jpg" width="400px" alt: DoorDash Logo/><img src="https://logodownload.org/wp-content/uploads/2019/05/uber-eats-logo-5.png" width="400px" alt: DoorDash Logo/><p>我一般都是用DoorDash，DoorDash的起送费是12刀，也就是说每次点一次外卖就是至少要花12刀以上，算上税，平台处理费和给司机的小费少说要花14刀。DoorDash的会员能省下大部分的处理费，美国这里的大学生优惠很流行，基本上所有的软件都有半价的会员优惠。所以一年也能省掉一部分钱。那么一顿饭就是14刀，一天两顿饭都点外卖的话，一个月就不是一个小数目。所以我一般都是外卖和学校食堂穿插着来。就这样前两个学期心痛的度过了。</p><h3 id="终于搬到公寓"><a href="#终于搬到公寓" class="headerlink" title="终于搬到公寓"></a>终于搬到公寓</h3><p>搬到公寓以后就宽松了许多，开始关注美国的菜价。下面是当时（2022年暑假）我在沃尔玛消费的菜价</p><p><img src="https://raw.githubusercontent.com/Noah-wang/pictures/main/picture/walmart1.jpg" width="400px"/><img src="https://raw.githubusercontent.com/Noah-wang/pictures/main/picture/walmart2.jpg" width="400px"/></p><p>不难看出其实食材和外卖相比要便宜太多太多了，于是我从此刻开始一直都是自己做饭了。除了沃尔玛，我还在用另一个华人线上食材配送的软件。毕竟有很多的调料在美国超市是找不到的。这个软件是近两年才做起来的，和另一家竞品相比价格十分公道，另一家简直就是抢劫。</p><img src= "https://raw.githubusercontent.com/Noah-wang/pictures/main/picture/weee.jpg"  width="400px" /><p>之前算的一天点外卖需要花费大概30还只是最低的价格，实际上很多餐厅一次外卖要花20刀以上的。但我自己做饭一天的价格只需要花费6到7刀，如果说是吃牛肉一些价格比较高的食材的花费是10刀左右。这样一算，自己做饭一个月就能省下600刀。一学期就是将近2000刀，所以说我很多的电子设备和球衣就是这么省出来的，甚至这次寒假回国玩，再回来上学还能剩下一些钱。当然，这是属于我的情况，不是每一个人都愿意做饭的。所以我可能会定期更新一些我做饭的博客。我个人喜欢烹饪这件事，并且觉得把钱浪费在一个成本很低的事情上很不值，把这些钱用在自己真正喜欢上的东西不是更好，对吗？</p><h3 id="做饭的代价？"><a href="#做饭的代价？" class="headerlink" title="做饭的代价？"></a>做饭的代价？</h3><p>我问过我周围一些同学他们完全不做饭的原因（煮速冻饺子，煮泡面，煮火锅不算）。第一大原因肯定和各位想的一样：“没时间”。这在我看来是十分可笑的一件事。我是一个每天固定做两顿饭，长跑，在多邻国上学西班牙语，背100个GRE单词的人，这些事情已经持续了有一段时间了，确实有的时候会出现时间不够用的情况，但也不至于到一学期连一顿饭也没时间做吧？更何况有很多的步骤是厨具在干活的，比如高压锅。这个时间你其实是可以干你自己的事情的。再加上美国外卖效率，其实做一顿饭和点外卖花费的时间是一样的，所以这个理由是绝对不成立的。</p><p>第二个理由其实就合理许多了，就是准备做饭的东西太烦了。我也确实感觉到了，这个过程可能不费时间，但他是每天都需要重复的，比如切葱末和蒜末。所以我在Temu（拼多多美国区）上买了一个电动粉碎机。真的给我省了很多烦心的步骤。</p><p>我一直觉得在美国干餐饮的相当大一部分餐厅都是在卖信息差，我并不觉得他们在认真的干一个餐厅，尤其在是我看见一份卖25刀的咖喱饭后。这种感觉就像是在北京吃饭。北京的餐饮百花齐放，有世界每一个角落的菜式，可有相当一部分人到北京旅游说这和他们家乡的菜式完全没有关系，并且这在他们家乡是很普通的食物为什么到这里就这么贵了。我想这绝对不只是不同城市消费水平的差异，而是在北京的人没见过这是什么，这个东西从来没有出现在他们心里的那把衡量价格的尺子上。当他们第一次见到这个东西就觉得值这个钱，从来不会有人会想到他真正应得的价格是多少，这就是在美国有相当一部分垃圾中餐厅现在还活着很好的原因，中国菜就是这么一点一点落到现在这个地位的。</p><p>我自从搬进公寓以来，几乎都是能做饭就做饭。有很多人问我是怎么坚持下来的，其实整个过程一点也没有坚持。这种既省了钱，又锻炼了生活技能的好事我还希望能多来点，寒假给女朋友爸妈做的糖醋排骨就让他们大吃了一惊：“王瑞泽还会炖排骨!”。</p><p>然而在国内的时候我就没有这么高的做饭频率了，因为需要经常和家人，爱人，朋友出去吃。另外在国内的环境做饭和点外卖和国外完全不一样。国内外卖便宜地让我感觉自己做饭是一件更花钱的事。在国内做饭是一个把全家人聚集在一起的活动。无论是我在自己家做我父母没有见过的菜式，还是在女友家和她的父母分享我的烹饪能力，都是体现对生活的热情，每一个爱烹饪的人都热爱着他们的生活。</p>]]></content>
+    
+    
+    <categories>
+      
+      <category>随笔-----生活中冒出的小火花</category>
+      
+    </categories>
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>北京工人体育场</title>
+    <link href="/2024/02/18/%E7%AC%AC%E4%B8%80%E6%AC%A1%E4%B8%AD%E8%B6%85%E8%A7%82%E8%B5%9B/"/>
+    <url>/2024/02/18/%E7%AC%AC%E4%B8%80%E6%AC%A1%E4%B8%AD%E8%B6%85%E8%A7%82%E8%B5%9B/</url>
+    
+    <content type="html"><![CDATA[<h2 id="北京工人体育场"><a href="#北京工人体育场" class="headerlink" title="北京工人体育场"></a>北京工人体育场</h2><p>去年暑假回国刚好赶上新工体竣工，选了一场和上海海港的比赛，和几个同学一起去看的。比赛还没开始球迷就在门口聚集了，非常尴尬的是，我并没有国安的球衣，于是我穿了一件绿色的包装工球衣，也算是蒙混过关了。</p><p><img src="https://raw.githubusercontent.com/Noah-wang/pictures/main/picture/2023.6.29%E5%B7%A5%E4%BA%BA%E4%BD%93%E8%82%B2%E9%A6%86%E5%8C%97%E4%BA%AC%E5%9B%BD%E5%AE%89VS%E4%B8%8A%E6%B5%B7%E6%B5%B7%E6%B8%AF/%E5%B7%A5%E4%BA%BA%E4%BD%93%E8%82%B2%E9%A6%86001.jpg"></p><p><img src="https://raw.githubusercontent.com/Noah-wang/pictures/main/picture/2023.6.29%E5%B7%A5%E4%BA%BA%E4%BD%93%E8%82%B2%E9%A6%86%E5%8C%97%E4%BA%AC%E5%9B%BD%E5%AE%89VS%E4%B8%8A%E6%B5%B7%E6%B5%B7%E6%B8%AF/%E5%B7%A5%E4%BA%BA%E4%BD%93%E8%82%B2%E9%A6%86002.jpg"></p><p>每次去各种球馆都是相同的感觉，外面看着就是一个普普通通的建筑，可一进到内部就被广阔的视野震撼了。</p><p><img src="https://raw.githubusercontent.com/Noah-wang/pictures/main/picture/2023.6.29%E5%B7%A5%E4%BA%BA%E4%BD%93%E8%82%B2%E9%A6%86%E5%8C%97%E4%BA%AC%E5%9B%BD%E5%AE%89VS%E4%B8%8A%E6%B5%B7%E6%B5%B7%E6%B8%AF/%E5%B7%A5%E4%BA%BA%E4%BD%93%E8%82%B2%E9%A6%86005.jpg"></p><p><img src="https://github.com/Noah-wang/pictures/blob/main/picture/2023.6.29%E5%B7%A5%E4%BA%BA%E4%BD%93%E8%82%B2%E9%A6%86%E5%8C%97%E4%BA%AC%E5%9B%BD%E5%AE%89VS%E4%B8%8A%E6%B5%B7%E6%B5%B7%E6%B8%AF/%E5%B7%A5%E4%BA%BA%E4%BD%93%E8%82%B2%E9%A6%86014.jpg?raw=true" alt="这么多人一起举tifo还是相当震撼的"></p><p><img src="https://github.com/Noah-wang/pictures/blob/main/picture/2023.6.29%E5%B7%A5%E4%BA%BA%E4%BD%93%E8%82%B2%E9%A6%86%E5%8C%97%E4%BA%AC%E5%9B%BD%E5%AE%89VS%E4%B8%8A%E6%B5%B7%E6%B5%B7%E6%B8%AF/%E5%B7%A5%E4%BA%BA%E4%BD%93%E8%82%B2%E9%A6%86008.jpg?raw=true"></p><p><img src="https://github.com/Noah-wang/pictures/blob/main/picture/2023.6.29%E5%B7%A5%E4%BA%BA%E4%BD%93%E8%82%B2%E9%A6%86%E5%8C%97%E4%BA%AC%E5%9B%BD%E5%AE%89VS%E4%B8%8A%E6%B5%B7%E6%B5%B7%E6%B8%AF/%E5%B7%A5%E4%BA%BA%E4%BD%93%E8%82%B2%E9%A6%86011.jpg?raw=true"></p><p>线下看球能让你全身心的体验运动的氛围，在我们的前两排有两个年轻人，一个穿着梅西的球衣，一个穿着苏亚雷斯的球衣。90分钟打满了，全程高喊：“武磊*你妈”，看着比球员都卖力，也算是全身心参与到比赛其中了。回到家里发现这两个人出现在了观察者网的视频里，标题为：<a href="https://www.bilibili.com/video/BV1cu411b74y/?share_source=copy_web&vd_source=1b8cb486fd8e847c65acaa57e0e844cb">“妈妈他们在干啥啊”</a> (视频对于没看过球的人过于震撼，慎点)</p>]]></content>
+    
+    
+    <categories>
+      
+      <category>影像-----视觉动物</category>
+      
+    </categories>
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>世界屋脊</title>
+    <link href="/2024/02/15/%E4%B8%96%E7%95%8C%E5%B1%8B%E8%84%8A/"/>
+    <url>/2024/02/15/%E4%B8%96%E7%95%8C%E5%B1%8B%E8%84%8A/</url>
+    
+    <content type="html"><![CDATA[<h2 id="西藏是个神秘的地方"><a href="#西藏是个神秘的地方" class="headerlink" title="西藏是个神秘的地方"></a>西藏是个神秘的地方</h2><p>西藏是藏传佛教的重地。每一座古老的寺庙都有着属于自己的故事，每一块石头都承载着千年的沧桑。走进这些寺庙，仿佛穿越了时光的长河，与历史悠久的文化相遇，感受着心灵的震撼与触动。</p><p><img src="https://raw.githubusercontent.com/Noah-wang/pictures/main/picture/2023.7.24%E8%A5%BF%E8%97%8F/2023.7.24%E8%A5%BF%E8%97%8F01.jpg" alt="祖国万岁"></p><p><img src="https://raw.githubusercontent.com/Noah-wang/pictures/main/picture/2023.7.24%E8%A5%BF%E8%97%8F/2023.7.24%E8%A5%BF%E8%97%8F05.jpg" alt="布达拉宫"></p><p><img src="https://github.com/Noah-wang/pictures/blob/main/picture/2023.7.24%E8%A5%BF%E8%97%8F/2023.7.24%E8%A5%BF%E8%97%8F14.jpg?raw=true" alt="玛尼堆"></p><h3 id="去年暑假我去了西藏，这是我人生中第一次回国后的第一次旅游。在这之前，虽然也去过国内的一些地方，但并没有这么的远。去之前种种担忧（那个时候我还没有开始跑步），担心自己的身体情况。可到了地方身体并没有发生很严重的反应，只有像当初我跑完1000米肺部恢复的感觉。"><a href="#去年暑假我去了西藏，这是我人生中第一次回国后的第一次旅游。在这之前，虽然也去过国内的一些地方，但并没有这么的远。去之前种种担忧（那个时候我还没有开始跑步），担心自己的身体情况。可到了地方身体并没有发生很严重的反应，只有像当初我跑完1000米肺部恢复的感觉。" class="headerlink" title="去年暑假我去了西藏，这是我人生中第一次回国后的第一次旅游。在这之前，虽然也去过国内的一些地方，但并没有这么的远。去之前种种担忧（那个时候我还没有开始跑步），担心自己的身体情况。可到了地方身体并没有发生很严重的反应，只有像当初我跑完1000米肺部恢复的感觉。"></a>去年暑假我去了西藏，这是我人生中第一次回国后的第一次旅游。在这之前，虽然也去过国内的一些地方，但并没有这么的远。去之前种种担忧（那个时候我还没有开始跑步），担心自己的身体情况。可到了地方身体并没有发生很严重的反应，只有像当初我跑完1000米肺部恢复的感觉。</h3><p><img src="https://github.com/Noah-wang/pictures/blob/main/picture/2023.7.24%E8%A5%BF%E8%97%8F/2023.7.24%E8%A5%BF%E8%97%8F13.jpg?raw=true" alt="极高的落差"></p><p><img src="https://github.com/Noah-wang/pictures/blob/main/picture/2023.7.24%E8%A5%BF%E8%97%8F/2023.7.24%E8%A5%BF%E8%97%8F17.jpg?raw=true" alt="在滑翔伞上的人一定是另一幅景色吧"></p><p><img src="https://github.com/Noah-wang/pictures/blob/main/picture/2023.7.24%E8%A5%BF%E8%97%8F/2023.7.24%E8%A5%BF%E8%97%8F21.jpg?raw=true" alt="圣湖"></p><h3 id="这里的视线非常开阔，虽然看着不远，但实际上要花费比预计要多得多的时间到达目的地"><a href="#这里的视线非常开阔，虽然看着不远，但实际上要花费比预计要多得多的时间到达目的地" class="headerlink" title="这里的视线非常开阔，虽然看着不远，但实际上要花费比预计要多得多的时间到达目的地"></a>这里的视线非常开阔，虽然看着不远，但实际上要花费比预计要多得多的时间到达目的地</h3><p><img src="https://github.com/Noah-wang/pictures/blob/main/picture/2023.7.24%E8%A5%BF%E8%97%8F/2023.7.24%E8%A5%BF%E8%97%8F23.jpg?raw=true" alt="一眼看不到头的盘山公路"></p><p><img src="https://github.com/Noah-wang/pictures/blob/main/picture/2023.7.24%E8%A5%BF%E8%97%8F/2023.7.24%E8%A5%BF%E8%97%8F27.jpg?raw=true" alt="被雾笼罩的山峰"></p><h3 id="人类和纳木错的风景相比就太过渺小了"><a href="#人类和纳木错的风景相比就太过渺小了" class="headerlink" title="人类和纳木错的风景相比就太过渺小了"></a>人类和纳木错的风景相比就太过渺小了</h3><p><img src="https://github.com/Noah-wang/pictures/blob/main/picture/2023.7.24%E8%A5%BF%E8%97%8F/2023.7.24%E8%A5%BF%E8%97%8F36.jpg?raw=true" alt="纳木错和骑马的人"></p><p><img src="https://github.com/Noah-wang/pictures/blob/main/picture/2023.7.24%E8%A5%BF%E8%97%8F/2023.7.24%E8%A5%BF%E8%97%8F38.jpg?raw=true" alt="纳木错的巨石"></p><h3 id="我现在还记得当初我站在羊卓雍措的瞭望台上的感受：在国外被困两年，中国显得那么的遥远，但站在羊卓雍措面前，他似乎能够容下你所有的不快。他就静静的在那里，包容下一切的事物，就在那一刻，我才感受到人间值得。"><a href="#我现在还记得当初我站在羊卓雍措的瞭望台上的感受：在国外被困两年，中国显得那么的遥远，但站在羊卓雍措面前，他似乎能够容下你所有的不快。他就静静的在那里，包容下一切的事物，就在那一刻，我才感受到人间值得。" class="headerlink" title="我现在还记得当初我站在羊卓雍措的瞭望台上的感受：在国外被困两年，中国显得那么的遥远，但站在羊卓雍措面前，他似乎能够容下你所有的不快。他就静静的在那里，包容下一切的事物，就在那一刻，我才感受到人间值得。"></a>我现在还记得当初我站在羊卓雍措的瞭望台上的感受：在国外被困两年，中国显得那么的遥远，但站在羊卓雍措面前，他似乎能够容下你所有的不快。他就静静的在那里，包容下一切的事物，就在那一刻，我才感受到人间值得。</h3>]]></content>
+    
+    
+    <categories>
+      
+      <category>影像-----视觉动物</category>
+      
+    </categories>
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>一年一度情人节💓</title>
+    <link href="/2024/02/14/%E4%B8%80%E5%B9%B4%E4%B8%80%E5%BA%A6%E6%83%85%E4%BA%BA%E8%8A%82/"/>
+    <url>/2024/02/14/%E4%B8%80%E5%B9%B4%E4%B8%80%E5%BA%A6%E6%83%85%E4%BA%BA%E8%8A%82/</url>
+    
+    <content type="html"><![CDATA[<h2 id="难啊"><a href="#难啊" class="headerlink" title="难啊"></a>难啊</h2><p>今年的情人节又到了，下午上课完一回来就看见了前台别人外卖的各式各样的玫瑰花。作为一个谈了六年半恋爱的人来说，其实已经几乎失去对爱情的敏感度了，长时间的恋爱关系让我感觉这是一件正常的事情。</p><p>我一般是不愿意主动和朋友说我的感情状况的，都是别人好奇的问我才说。从高中开始到大学，我认识了一个一个新的朋友，他们也不约而同的因为我和我的女朋友谈了两年三年四年五年六年恋爱而震惊。。。</p><p>就拿我的课友Chengtao来说，当我告诉他我已经谈了六年半恋爱的时候，他说：“啊！？六年？？？” 再加上我说我们从高中之后就不在一个学校上学，大学异国恋的时候，他更吃惊了。但我貌似觉得这样的爱情生活才是正常的。实际上我和女友长时间以恋人的身份在同一空间就相处了初三一年，加上有所谓“早恋”的社会压力，所以我们的恋爱没有那么起起伏伏，可以用平平淡淡来形容了。</p><p>既然是情人节，虽与情人相隔万里，仪式感也不能缺。我提前早已在黑色的软件上看好了礼物，就等一个价格的低谷。好巧不巧的是今年情人节就在春节后的几天，内人一家都出去旅游。我算好的日子可能又不准了，又好巧不巧的是，内人一家觉得旅游当地不好玩，提前回来了。于是我的礼物先女友一家提前躺在了门口。</p><p>礼物是一条围巾，这是她上个学期就说想要的。之前她围着一条几十块钱的黑白色围巾，那个围巾掉毛很多。这次也算是提前拿到了一个好的信息，送出了合适的礼物</p><p><img src="https://github.com/Noah-wang/pictures/blob/main/picture/kissMyGirl.jpg?raw=true" alt="kissMyGirl"></p>]]></content>
+    
+    
+    <categories>
+      
+      <category>随笔-----生活中冒出的小火花</category>
+      
+    </categories>
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>我为什么要跑马拉松🏃</title>
+    <link href="/2024/02/12/%E6%88%91%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E8%B7%91%E9%A9%AC%E6%8B%89%E6%9D%BE/"/>
+    <url>/2024/02/12/%E6%88%91%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E8%B7%91%E9%A9%AC%E6%8B%89%E6%9D%BE/</url>
+    
+    <content type="html"><![CDATA[<h1 id="RIP-KIPTUM"><a href="#RIP-KIPTUM" class="headerlink" title="RIP KIPTUM"></a>RIP KIPTUM</h1><h2 id="一只脚已然迈进Sub2"><a href="#一只脚已然迈进Sub2" class="headerlink" title="一只脚已然迈进Sub2"></a>一只脚已然迈进Sub2</h2><p><img src="https://raw.githubusercontent.com/Noah-wang/pictures/main/picture/kiptum.jpg" alt="kiptum"></p><h2 id="2023年10月18日-我开始跑步了"><a href="#2023年10月18日-我开始跑步了" class="headerlink" title="2023年10月18日 我开始跑步了"></a>2023年10月18日 我开始跑步了</h2><p><img src="https://raw.githubusercontent.com/Noah-wang/pictures/main/picture/firstRun.jpg" alt="firstrun"></p><p>这是我第一次跑步的数据，这个数据真的是不堪入目了， 那个时候真的是很难完成1公里。每次跑几百米就得走下来歇会。</p><p><img src="https://raw.githubusercontent.com/Noah-wang/pictures/main/picture/firstparkrun.jpg" alt="firstparkrun"></p><p>这是我两周前跑的parkrun5公里成绩。虽然也没有多好，但相比四个月以前每公里已经快了3分钟。现在看前面的那张图片自己都感觉难以置信。</p><h2 id="这四个月都发生了什么？"><a href="#这四个月都发生了什么？" class="headerlink" title="这四个月都发生了什么？"></a>这四个月都发生了什么？</h2><ul><li><p>513.87公里。学校体育馆的跑道，学校外的道路，北京的家，家里的跑步机，威海，基本上我到过的地方都跑过。</p><p>跑的这500多公里让我见到了熟悉和不熟悉的景色，就算是我生活了15年的地方，也有从来没有涉足过的地方，用脚步来认识一座城市是和开车不一样的。</p></li><li><p>一双跑鞋，一块手表，一个耳机，两条压缩裤</p><p>这是跑步这个兴趣爱好的花费，其中跑鞋一年需要两三双，耳机不是刚需。算上每年需要花费的参赛门票大概三四千，跑步其实算是相当经济的兴趣爱好了。当然，见到喜欢的鞋就买可能不够。</p></li><li><p>减掉的脂肪和多吃进去的甜品</p><p>跑步也算是个减肥热门项目了。每次我10公里跑完就是700卡的消耗，算上上课要走的距离和日常消耗，每天3000卡算是轻轻松松了，这个时候你如果不追求极致的减肥效果，那这些热量是足够你吃一堆相当罪恶的大餐了。</p></li><li><p>麦迪逊马拉松，京西长跑节，每周parkrun</p><p>活动是跑步很重要的一部分。我所理解的活动，就是给自己一段时间内的跑步一份答卷，也可以是一堂强度课。在激动人心的环境下更加容易创造自己的新记录，享受这个过程.</p></li><li><p>B站跑步的内容</p><p>作为一个喜欢内容创作的人来说，这也算是不同于其他人的视角和经历了，尤其是在国外的这个环境下。用我的Insta 360 go3来拍摄街景和过程。 成片也是足够清晰了</p></li><li><p>每周固定的运动时间</p><p>那跑步之后需要有固定的训练量，身体在时刻变化。所以我一周会抽出四到五天来进行锻炼，不过有利有弊，有的时候确实是没法按照计划进行，心里也是十分折磨的。</p></li></ul><h2 id="为什么我想跑的是马拉松"><a href="#为什么我想跑的是马拉松" class="headerlink" title="为什么我想跑的是马拉松"></a>为什么我想跑的是马拉松</h2><p>初中高中的我最不理解的就是那些热爱跑步的人，不理解为什么有人会喜欢一个充满痛苦的运动。这运动既没有团队合作也没有互动，当时就觉得太无聊了，跑步这件事太中老年了，每天看着学校里的体特一圈一圈的跑自己都觉得累。</p><p>就在上个学期一个视频彻底改变了我的想法，B站我很喜欢的一个美食 up主橙飞一下<a href="https://www.bilibili.com/video/BV1s8411r7Yr/?share_source=copy_web&vd_source=1b8cb486fd8e847c65acaa57e0e844cb">天津马拉松</a>的视频。看完视频之后我其实是对跑步这件事没有什么兴趣的，而是对参加马拉松这个活动而感兴趣。因为马拉松的全程是有能量补给的，橙飞老师作为一个美食自助区的up主自然也是相当吻合他的视频主题的。看完视频热血澎湃，希望自己也能参加这样的活动，于是开始跑步。</p><p>就当我自己跑的时候才知道完成一场马拉松有多难。就算是现在的我也无法跑完一个全程马拉松。有人说马拉松是四菜一汤，我觉得他说的很贴切。<strong>马拉松不是所有人都跑过，饭都吃过吧。就当你吃的很饱的时候，别人告诉你这才刚吃了一半，还有两个大菜还没上，你说你吃还是不吃？</strong></p><p>马拉松道阻且长，他就高高的在那待着一动不动，等待着我足够高把他拿下来 。一场马拉松像人生的轨迹，不是所有人都是一帆风顺的，所有人都会有在前十公里的兴奋，二十公里的疲惫，三十公里的崩溃，最后迎来曙光，现在谈及这个也许对我的人生还早，但马拉松的精神时刻警醒我再坚持一下，就快到了。</p>]]></content>
+    
+    
+    <categories>
+      
+      <category>运动-----自律给我自由</category>
+      
+    </categories>
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>🏮春节🏮</title>
+    <link href="/2024/02/09/%E6%98%A5%E8%8A%82/"/>
+    <url>/2024/02/09/%E6%98%A5%E8%8A%82/</url>
+    
+    <content type="html"><![CDATA[<h1 id="又是一年春节，又是在美国的一年春节"><a href="#又是一年春节，又是在美国的一年春节" class="headerlink" title="又是一年春节，又是在美国的一年春节"></a>又是一年春节，又是在美国的一年春节</h1><p>每次在这种重大节日里醒来，刷着B站的时间线，总有一种 “你终于醒辣” 的感觉  <span id="more"></span></p><p>在这样一个除了中国留学生没有其他中国人的地方生活，可以说几乎感受不到春节的气息<br>与往常最大的不同就是在手机里和老师同学发句祝福</p><p>看到公寓电梯里的宣传栏提前换上了Chinese new year的活动海报<br>忽然想起去年在微博上吵翻天的Lunar new year,<br>想必是因为我们这栋公寓大部分全是中国人吧</p><h2 id="和Chengtao一起过的除夕"><a href="#和Chengtao一起过的除夕" class="headerlink" title="和Chengtao一起过的除夕"></a>和Chengtao一起过的除夕</h2><p>上周课友Chengtao在下课之后问我除夕要不要去他家做两个菜一起过<br>我感到十分意外，虽然说我们之前其实已经是一学期的课友了，但从没有见过面学期我们有四节一样的课</p><p>今天跑完步回来，前台的工作人员递上了个红包<br><img src="https://raw.githubusercontent.com/Noah-wang/pictures/main/picture/redpocket.jpg" alt="&quot;公寓给的红包&quot;"><br>我把上面的红包里的劣质巧克力换成了从国内带的大白兔送给Chengtao了<br>也算是借花献佛了</p><p>到了Chengtao家，我做了糖醋里脊，他做了清蒸鱼，排骨冬瓜汤和炒青菜<br>这顿饭让我清楚的意识到南北饮食的差异，尤其是我听到Chengtao家过年连一顿饺子都不吃的时候<br>在饭桌上我们聊了很多，聊了他为什么要从中国大学转来，怎么和他女朋友认识的，北京落户有多难<br>最后我们一起包了馄饨，这是我一次包馄饨，也算是学习了新厨艺了<br><img src="https://raw.githubusercontent.com/Noah-wang/pictures/main/picture/wonton.jpg" alt="&quot;我和Chengtao一起包的馄饨&quot;"></p>]]></content>
+    
+    
+    <categories>
+      
+      <category>随笔-----生活中冒出的小火花</category>
+      
+    </categories>
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>可能是第一篇文章</title>
+    <link href="/2024/02/01/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/"/>
+    <url>/2024/02/01/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</url>
+    
+    <content type="html"><![CDATA[<h1 id="I’m-back"><a href="#I’m-back" class="headerlink" title="I’m back"></a>I’m back</h1><p> 好久不见</p><p>时隔一年半又回来了</p><p>22年暑假无法回国，闲着也是闲着，就做了博客  </p><p>可惜那个时候没有内容创作的经验，不知道写什么内容，于是就搁置了</p><p>在经过一年半的时间后，有了照片和视频的创作经验，又想着把博客捡起来，发一些自己想发的内容</p><p>博客的受众没有那么广，大千世界，我的博客不过就是其中一粒沙子罢了</p><p>这次给博客换了一个主题，比原来的要更加简洁</p><p>内容可能也不会全是教程向的了，会有更多的生活记录向的帖子</p><p><strong>好戏马上上演</strong></p>]]></content>
+    
+    
+    <categories>
+      
+      <category>其他</category>
+      
+    </categories>
+    
+    
+  </entry>
+  
+  
+  
+  
+</search>
