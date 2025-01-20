@@ -8,7 +8,7 @@
     <link href="/2025/01/20/%E5%9B%BD%E5%86%85%E5%8D%9A%E5%AE%A2%E9%83%A8%E7%BD%B2%E9%97%AE%E9%A2%98/"/>
     <url>/2025/01/20/%E5%9B%BD%E5%86%85%E5%8D%9A%E5%AE%A2%E9%83%A8%E7%BD%B2%E9%97%AE%E9%A2%98/</url>
     
-    <content type="html"><![CDATA[]]></content>
+    <content type="html"><![CDATA[<h4 id="在博客部署上遇到了一些问题"><a href="#在博客部署上遇到了一些问题" class="headerlink" title="在博客部署上遇到了一些问题"></a>在博客部署上遇到了一些问题</h4><p>就在我回国之后写博客之后，使用hexo d 进行部署的时候，我遇到了一些问题。Terminal显示<em>Connection closed by 198.18.0.21 port 22 fatal: Could not read from remote repository.</em> 的问题。折腾了一圈，重新clone repo，重新安装hexo，最后发现是VPN的问题。发现的原因是看了这个网站<a href="https://qianqiu-cell.github.io/2023/01/19/blog/hexo_remote/%EF%BC%8C%E4%BD%86%E4%B8%8D%E5%90%8C%E7%9A%84%E6%98%AF%EF%BC%8C%E8%BF%99%E4%B8%AA%E5%91%BD%E4%BB%A4%E8%A1%8C%E5%AF%B9%E6%88%91%E7%9A%84%E6%83%85%E5%86%B5%E6%98%AF%E6%B2%A1%E6%9C%89%E4%BD%9C%E7%94%A8%E7%9A%84">https://qianqiu-cell.github.io/2023/01/19/blog/hexo_remote/，但不同的是，这个命令行对我的情况是没有作用的</a></p>]]></content>
     
     
     <categories>
