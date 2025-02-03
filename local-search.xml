@@ -4,6 +4,25 @@
   
   
   <entry>
+    <title>Wifi信号</title>
+    <link href="/2025/01/31/post/"/>
+    <url>/2025/01/31/post/</url>
+    
+    <content type="html"><![CDATA[<h4 id="Wifi总是觉得慢"><a href="#Wifi总是觉得慢" class="headerlink" title="Wifi总是觉得慢"></a>Wifi总是觉得慢</h4><p>家里的wifi去年升级到了500M，按理说这个带宽对于家庭来说是足够用了的，但每次在我的房间里5Ghz的信号就显示一两格。使用Speedtest进行测速，常常只有10到20m&#x2F;s的速度，离着理论的500有很大的差距。</p><p>家里路由器摆在两个沙发的夹角里，旁边还有一个饮水机，背后是承重墙。根据华为提供的<a href="https://support.huawei.com/enterprise/zh/doc/EDOC1000113314/a0252a0d">WLAN网络规划指导</a>。混凝土，实木门这些都比其他障碍物要衰减很多。加上两个沙发都是实木的，所以我断定可能是周围障碍物太多了。于是我把wifi放在了饮水机的外侧，这时再使用Speedtest进行测速，终于是能跑到45到50了。现在这个数是和理论数值接近的，剩下的速度被路由器和其他设备分走一些。</p>]]></content>
+    
+    
+    <categories>
+      
+      <category>开发-----记录，学习，分享</category>
+      
+    </categories>
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>国内博客部署问题</title>
     <link href="/2025/01/20/%E5%9B%BD%E5%86%85%E5%8D%9A%E5%AE%A2%E9%83%A8%E7%BD%B2%E9%97%AE%E9%A2%98/"/>
     <url>/2025/01/20/%E5%9B%BD%E5%86%85%E5%8D%9A%E5%AE%A2%E9%83%A8%E7%BD%B2%E9%97%AE%E9%A2%98/</url>
