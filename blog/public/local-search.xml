@@ -4,6 +4,25 @@
   
   
   <entry>
+    <title>开发日志</title>
+    <link href="/2025/05/27/%E5%BC%80%E5%8F%91%E6%97%A5%E5%BF%97/"/>
+    <url>/2025/05/27/%E5%BC%80%E5%8F%91%E6%97%A5%E5%BF%97/</url>
+    
+    <content type="html"><![CDATA[<h2 id="开发日志-王瑞泽"><a href="#开发日志-王瑞泽" class="headerlink" title="开发日志-王瑞泽"></a>开发日志-王瑞泽</h2><h3 id="5月27日"><a href="#5月27日" class="headerlink" title="5月27日"></a>5月27日</h3><p>创建项目，使用Expo搭建</p><p>npm start进行启动![image-20250527101923641](&#x2F;Users&#x2F;noahwang&#x2F;Library&#x2F;Application Support&#x2F;typora-user-images&#x2F;image-20250527101923641.png)</p>]]></content>
+    
+    
+    <categories>
+      
+      <category>开发-----记录，学习，分享</category>
+      
+    </categories>
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>「国马荣耀」北京马拉松</title>
     <link href="/2025/04/24/%E5%8C%97%E4%BA%AC%E9%A9%AC%E6%8B%89%E6%9D%BE/"/>
     <url>/2025/04/24/%E5%8C%97%E4%BA%AC%E9%A9%AC%E6%8B%89%E6%9D%BE/</url>
@@ -185,25 +204,6 @@
     <categories>
       
       <category>运动-----自律给我自由</category>
-      
-    </categories>
-    
-    
-  </entry>
-  
-  
-  
-  <entry>
-    <title>开发日志</title>
-    <link href="/2024/11/13/%E5%BC%80%E5%8F%91%E6%97%A5%E5%BF%97/"/>
-    <url>/2024/11/13/%E5%BC%80%E5%8F%91%E6%97%A5%E5%BF%97/</url>
-    
-    <content type="html"><![CDATA[<h3 id="开发日志"><a href="#开发日志" class="headerlink" title="开发日志"></a>开发日志</h3><h4 id="网页端"><a href="#网页端" class="headerlink" title="网页端"></a>网页端</h4><h5 id="2024-11-14"><a href="#2024-11-14" class="headerlink" title="2024.11.14"></a>2024.11.14</h5><p>为PriceScout添加更多功能！</p><p><strong>搜索历史记录</strong>：可以浏览或者单击选择搜索过的设置<br><strong>已选择网站显示</strong>：在搜索栏下方显示已经添加了的网页<br><strong>固定搜索栏</strong>：随着更多的网站被添加进来，网页需要向下滚动，添加了固定的搜索栏当网页滚动到下方，无需回到顶端搜索</p><h5 id="2024-11-18"><a href="#2024-11-18" class="headerlink" title="2024.11.18"></a>2024.11.18</h5><p>修复PriceScout bugs</p><p>修复图片不正确显示的bug</p><p>修复网站不正确的搜索域名</p><h4 id="苹果端"><a href="#苹果端" class="headerlink" title="苹果端"></a>苹果端</h4><h5 id="2024-11-13"><a href="#2024-11-13" class="headerlink" title="2024.11.13"></a>2024.11.13</h5><p>今天我下载了Swift Playground，试图开始学习Swift。</p><p><img src="https://github.com/Noah-wang/pictures/blob/main/picture/%20%E5%BC%80%E5%8F%91%E6%97%A5%E5%BF%97/20241113/SwiftPlayground01.png?raw=true" alt="SwiftPlayground"></p><p>预定了明年二月份的<strong>Swift Student Challenge</strong>，现在的我一片茫然，不知道我会完成什么样</p><p><img src="https://github.com/Noah-wang/pictures/blob/main/picture/%20%E5%BC%80%E5%8F%91%E6%97%A5%E5%BF%97/20241113/SwiftStudentChallenge01.png?raw=true" alt="SwiftStudentChallenge"></p><h5 id="2025-1-1"><a href="#2025-1-1" class="headerlink" title="2025.1.1"></a>2025.1.1</h5><p>正在学习UIKit，马上就要转到SwiftUI了，这个日志老忘了写….以后要养成习惯</p>]]></content>
-    
-    
-    <categories>
-      
-      <category>开发-----记录，学习，分享</category>
       
     </categories>
     
